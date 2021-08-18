@@ -11,7 +11,7 @@ If you and your group have any questions or get stuck as you work through this i
 1. Create a new story by navigating to [the Twine website](http://twinery.org/2/){:target="_blank"} and clicking on the green “+ Story” button on the right-hand navigation bar. Give your story a name something like, “In The Beginning” (which you can change later if you want to).
 2. Open your word processing document where you have your story laid, or if you don’t have your own story you can use our MakerSpace Aliens sample story: https://goo.gl/6FAEuo 
 3. Double click on the “Untitled Passage” box on the screen and start importing your story into Twine by copying and pasting the first passage of text into the text box. Also title the passage, as this is key to linking different passages together. 
-4. To create other passages, simply surround the text in the document with double square brackets, and this automatically creates another passage. E.g.: “Just testing how to create a [[link to another document]] in a story.” Give this a try now if you haven’t already. You will see the auto-generated passage similar to the image to the right when you close the current passage.
+4. To create other passages, simply surround the text in the document with double square brackets, and this automatically creates another passage. E.g.: “Just testing how to create a '''[[link to another document]]''' in a story.” Give this a try now if you haven’t already. You will see the auto-generated passage similar to the image to the right when you close the current passage.
 5. Go ahead and create all the other passages for your story, by copy and pasting the text into passages as you just did above.
 6. Next please insert an image into one of your passages by typing or pasting the following HTML into the passage. If you would like to use your own image, paste the URL of your own image in place of the URL below between the quotation marks: (<img src="https://bit.ly/32DnMcw" width="500">)
 7. Experiment with different text types of formatting in a passage. 
@@ -40,7 +40,6 @@ tw-link {
 11. Try to upload your story and images to your personal UVic webspace. For directions on how to do this [look here](http://bit.ly/2QlRZo0){:target="_blank"}
     - Note: If you are using your own images, they must be available somewhere on the web, or also uploaded to your webspace with the correct. The best practice is to upload them to your personal webspace as you develop your story so that you can make sure they work correctly as you go.
     - If you’re not able to upload your story, we will post it to a website for you. Please email your file to: dscommons@uvic.ca 
-
 **Extra Credit Activities (if you have time):**
 12. Put URL links to other webpages or web resources into your story. E.g. <a href="http://google.com">Link text here.</a>
 13. Put URL links to other webpages or web resources into your story using an image as the link “button.” E.g. <a href="http://uvic.ca"><img src="https://jillianmccue.ca/wp-content/uploads/2016/04/goat.jpg"></a>

@@ -18,9 +18,9 @@ If you and your group have any questions or get stuck as you work through this i
 <img src="https://bit.ly/32DnMcw" width="500">
 ```
 7. Experiment with different text types of formatting in a passage. 
-    - Bold: This is done by putting two stars on either side of the text: **Bold text**
-    - Underline: Put the HTML tags for underline on either side of the text: <u>underline</u>
-    - Italicize: Put one star on either side of the text: *italicize text*
+    - Bold: This is done by putting two stars on either side of the text: ```**Bold text**```
+    - Underline: Put the HTML tags for underline on either side of the text: ```<u>underline</u>```
+    - Italicize: Put one star on either side of the text: ```*italicize text*```
 8. Rename one of the links (inside the double square brackets) in your first passage and see what happens.  
     - How can you fix it?
     - What happens when you change the title of one of your passages below your starting passage? This is how you change a link: by changing the title of the passage below it.
@@ -45,8 +45,8 @@ tw-link {
     - Note: If you are using your own images, they must be available somewhere on the web, or also uploaded to your webspace with the correct. The best practice is to upload them to your personal webspace as you develop your story so that you can make sure they work correctly as you go.
     - If you’re not able to upload your story, we will post it to a website for you. Please email your file to: dscommons@uvic.ca 
 **Extra Credit Activities (if you have time):**
-12. Put URL links to other webpages or web resources into your story. E.g. <a href="http://google.com">Link text here.</a>
-13. Put URL links to other webpages or web resources into your story using an image as the link “button.” E.g. <a href="http://uvic.ca"><img src="https://jillianmccue.ca/wp-content/uploads/2016/04/goat.jpg"></a>
+12. Put URL links to other webpages or web resources into your story. E.g. ```<a href="http://google.com">Link text here.</a>```
+13. Put URL links to other webpages or web resources into your story using an image as the link “button.” E.g. ```<a href="http://uvic.ca"><img src="https://jillianmccue.ca/wp-content/uploads/2016/04/goat.jpg"></a>``````
 14. To make your “display test” different that the name of the passage you want to link you, use this format for your link: [[Display Text|Text of passage title]]   Note: Make sure there are no extra spaces, and the case is identical for the passage title. 
 15. Embed a YouTube video into one of your passages. Note in the code below how you need to modify the YouTube URL for this work by deleting the “watch?v=” from the URL and replacing it with “embed/” :
 ```

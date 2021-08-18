@@ -57,10 +57,9 @@ tw-link {
 16. Add a coin flip or other random event to one of your passages so that the story branches to one of two different passages depending on the coin flip for example. Note: you can have more than two items for your random event.```(either:"[[heads]]","[[tails]]","[[The coin falls into the storm drain]]")```
 
 17. Play some background audio in one of your passages:
-```<audio autoplay loop>
-<source src="https://archive.org/download/AzdaemaPodfic-SoundEffectsLibrary/Firefly%20themesong.mp3" type='audio/mpeg; codecs="mp3"'>
-</audio>
-```
+```<audio autoplay loop>```
+```<source src="https://archive.org/download/AzdaemaPodfic-SoundEffectsLibrary/Firefly%20themesong.mp3" type='audio/mpeg; codecs="mp3"'>```
+```</audio>```
 
 **Royalty-Free Media you can embed in your Twine stories:**
 - Photos: 

@@ -57,9 +57,10 @@ tw-link {
 
 17. Play some background audio in one of your passages:
 ```
-<audio autoplay loop> 
+<audio autoplay loop>
 <source src="https://archive.org/download/AzdaemaPodfic-SoundEffectsLibrary/Firefly%20themesong.mp3" type='audio/mpeg; codecs="mp3"'>
 </audio>
+
 ```
 
 **Royalty-Free Media you can embed in your Twine stories:**

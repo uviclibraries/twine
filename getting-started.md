@@ -8,12 +8,12 @@ parent: Workshop Activities
 # Interactive, Nonlinear Stories with Twine: Getting Started
 If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 **Note:** To avoid compatibility issues, **DO NOT use the SAFARI web browser on Macs!** Please use Firefox or Chrome web browsers instead of Safari.
-<img src="images//twine-intro-02.png" style="float:right" alt="+Story button"> 
+<img src="images//twine-intro-02.png" style="float:right;height:80" alt="+Story button"> 
 1. Create a new story by navigating to [the Twine website](http://twinery.org/2/){:target="_blank"} and clicking on the green “+ Story” button on the right-hand navigation bar. Give your story a name something like, “In The Beginning” (which you can change later if you want to).
 <img src="images//twine-intro-03.png" style="float:right;width:180px;height:180px;" alt="Unintitled Passage box"> 
 2. Open your word processing document where you have your story laid, or if you don’t have your own story you can use our MakerSpace Aliens sample story: https://goo.gl/6FAEuo 
 3. Double click on the “Untitled Passage” box on the screen and start importing your story into Twine by copying and pasting the first passage of text into the text box. Also title the passage, as this is key to linking different passages together. 
-<img src="images//twine-intro-04.png" style="float:right;width:200px;height:200px;" alt="Boxes where text is linking"> 
+<img src="images//twine-intro-04.png" style="float:right;width:220px" alt="Boxes where text is linking"> 
 4. To create other passages, simply surround the text in the document with double square brackets, and this automatically creates another passage. E.g.: **“Just testing how to create a [[link to another document]] in a story.”** Give this a try now if you haven’t already. You will see the auto-generated passage similar to the image to the right when you close the current passage.
 5. Go ahead and create all the other passages for your story, by copy and pasting the text into passages as you just did above.
 6. Next please insert an image into one of your passages by typing or pasting the following HTML into the passage. If you would like to use your own image, paste the URL of your own image in place of the URL below between the quotation marks: 

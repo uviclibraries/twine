@@ -3,14 +3,17 @@ layout: default
 title: Pre-Workshop Activities
 nav_order: 2
 ---
-## UPDATE BELOW: Pre-Workshop Videos & Activities
-This workshop is primarily hands-on practice with Excel in order to learn to use key features of the software. To participate fully please do the following **before the workshop**:
+## Pre-Workshop Videos & Activities
+This workshop is primarily hands-on practice with Twine in order to learn to get some experience and be able to create your own interactive story. To participate fully please do the following **before the workshop**:
 
-**UPDATE BELOW: 5-10 minutes.**<br>
-- OPTIONAL - [Introduction to Spreadsheets for Beginners](https://www.youtube.com/watch?v=rJbf-2XXsuY){:target="_blank"} (5 min)<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lYzhgMZii3o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-- OPTIONAL - If you don’t have the latest version of Microsoft Excel, you can request a UVic licensed and paid-for version of [Office 365 here](https://onlineservices.uvic.ca/){:target="_blank"}<br>
-            -  Then [download the Office installer here](https://portal.office.com){:target="_blank"}<br>
-            -  Please login with your UVic NetLink ID credentials. Please note that you will need to enter in your NetLinkID@uvic.ca, and not just your NetLinkID.
-
+**25 minutes.**<br>
+- [Introduction for Beginners](https://www.youtube.com/watch?v=ZnARX2ToqYc){:target="_blank"} (7 min)<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZnARX2ToqYc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- [Pre-workshop Quiz](https://goo.gl/forms/1eBZjRK8qIY3Oer03){:target="_blank"}{: .btn .btn-purple } 
+- OPTIONAL: On paper or in a word processor, create the concept for a short branching story you can use in class to create your very own Twine story! [Here’s an example](https://goo.gl/qwoAen){:target="_blank"}
+- OPTIONAL: On paper or in a word processor, create the concept for a short branching interview you can use in class to create your very own Twine interview! [Here’s an example] (http://bit.ly/2Mm6cP){:target="_blank"}
+- OPTIONAL: [Making Twine Look Awesome with CSS](https://goo.gl/4hqP46){:target="_blank"} (5 min) (pdf)
+- OPTIONAL: [Adding Images and Music to Twine](https://goo.gl/6vec9k){:target="_blank"} (5 min) (pdf)
+- OPTIONAL: UVic webspace upload instructions (10 min) - [Web Hosting Students](https://www.uvic.ca/systems/support/web/webhosting-students/index.php){:target="_blank"} & [Web Hosting Faculty and Staff](https://www.uvic.ca/systems/support/web/webhosting-fac-staff/index.php){:target="_blank"}
+       
 [NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }

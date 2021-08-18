@@ -51,5 +51,5 @@ tw-link {
 13. Embed a YouTube video into one of your passages. Note in the code below how you need to modify the YouTube URL for this work by deleting the “watch?v=” from the URL and replacing it with “embed/” :
 ```<iframe width="560" height="315" src="https://www.youtube.com/embed/_JF0Jys5ITc" frameborder="0" allowfullscreen></iframe>```
 14. Here is a more fully developed [example of a Laptop Buyers Guide](http://bit.ly/2Iv0kkz){:target="_blank"} 
-![Representation of the storyboard](images//twine-interview-09.gif)
+![Representation of the storyboard](images//twine-interview-09.png)
 [NEXT STEP: Using Variables](variables.html){: .btn .btn-blue }

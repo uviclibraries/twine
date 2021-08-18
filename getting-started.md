@@ -44,7 +44,8 @@ tw-link {
 11. Try to upload your story and images to your personal UVic webspace. For directions on how to do this [look here](http://bit.ly/2QlRZo0){:target="_blank"}
     - Note: If you are using your own images, they must be available somewhere on the web, or also uploaded to your webspace with the correct. The best practice is to upload them to your personal webspace as you develop your story so that you can make sure they work correctly as you go.
     - If you’re not able to upload your story, we will post it to a website for you. Please email your file to: dscommons@uvic.ca <br>
-**Extra Credit Activities (if you have time):**
+
+Extra Credit Activities (if you have time):
 12. Put URL links to other webpages or web resources into your story. E.g. ```<a href="http://google.com">Link text here.</a>```
 
 13. Put URL links to other webpages or web resources into your story using an image as the link “button.” E.g. ```<a href="http://uvic.ca"><img src="https://jillianmccue.ca/wp-content/uploads/2016/04/goat.jpg"></a>```

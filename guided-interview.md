@@ -40,11 +40,11 @@ tw-link {
 10. Try to upload your story to your personal UVic webspace. For directions on how to do this [look here](http://bit.ly/2QlRZo0){:target="_blank"} 
   - Note: If you are using your own images, they must be available somewhere on the web, or also uploaded to your webspace with the correct. The best practice is to upload them to your personal webspace as you develop your story so that you can make sure they work correctly as you go.
 
-**Optional Bells and Whistles for your Interview (if you have time):**
-11. Put URL links to other webpages or web resources into your story. E.g. ```<a href="http://google.com">Link text here.</a>```
-12. Put URL links to other webpages or web resources into your story using an image as the link “button.” E.g. ```<a href="http://dell.com/"><img src="https://dell.to/2J0Nn2e"></a>```
-13. Embed a YouTube video into one of your passages. Note in the code below how you need to modify the YouTube URL for this work by deleting the “watch?v=” from the URL and replacing it with “embed/” :
+**11. Optional Bells and Whistles for your Interview (if you have time):**
+12. Put URL links to other webpages or web resources into your story. E.g. ```<a href="http://google.com">Link text here.</a>```
+13. Put URL links to other webpages or web resources into your story using an image as the link “button.” E.g. ```<a href="http://dell.com/"><img src="https://dell.to/2J0Nn2e"></a>```
+14. Embed a YouTube video into one of your passages. Note in the code below how you need to modify the YouTube URL for this work by deleting the “watch?v=” from the URL and replacing it with “embed/” :
 ```<iframe width="560" height="315" src="https://www.youtube.com/embed/_JF0Jys5ITc" frameborder="0" allowfullscreen></iframe>```
-14. Here is a more fully developed [example of a Laptop Buyers Guide](http://bit.ly/2Iv0kkz){:target="_blank"} 
+15. Here is a more fully developed [example of a Laptop Buyers Guide](http://bit.ly/2Iv0kkz){:target="_blank"} 
 
 [NEXT STEP: Using Variables](variables.html){: .btn .btn-blue }

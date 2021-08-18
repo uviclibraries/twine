@@ -46,8 +46,11 @@ tw-link {
     - If you’re not able to upload your story, we will post it to a website for you. Please email your file to: dscommons@uvic.ca <br>
 
 12. **Extra Credit Activities (if you have time)**:<br> Put URL links to other webpages or web resources into your story. E.g. ```<a href="http://google.com">Link text here.</a>```
+
 13.  Put URL links to other webpages or web resources into your story using an image as the link “button.” E.g. ```<a href="http://uvic.ca"><img src="https://jillianmccue.ca/wp-content/uploads/2016/04/goat.jpg"></a>```
+
 14.  To make your “display test” different that the name of the passage you want to link you, use this format for your link: ```[[Display Text|Text of passage title]]```  Note: Make sure there are no extra spaces, and the case is identical for the passage title. 
+
 15.  Embed a YouTube video into one of your passages. Note in the code below how you need to modify the YouTube URL for this work by deleting the “**watch?v=**” from the URL and replacing it with “**embed/**” :
 ```<iframe width="560" height="315" src="https://www.youtube.com/embed/JRY8TjB9d4U" frameborder="0" allowfullscreen></iframe>```
 

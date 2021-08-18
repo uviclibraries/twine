@@ -6,8 +6,6 @@ parent: Workshop Activities
 ---
 # Guided Interviews with Twine
 If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
-
-
 Note: To avoid compatibility issues, on Macs please use Firefox or Chrome web browsers instead of Safari.
 
 1. Create a new guided interview guide by navigating to [the Twine website](http://twinery.org/2/){:target="_blank"}  and clicking on the green “+ Story” button on the right-hand navigation bar. Give your guided interview a name something like, “Laptop Buyers Guide” which you can change later if you want.
@@ -40,8 +38,10 @@ tw-link {
 10. Try to upload your story to your personal UVic webspace. For directions on how to do this [look here](http://bit.ly/2QlRZo0){:target="_blank"} 
   - Note: If you are using your own images, they must be available somewhere on the web, or also uploaded to your webspace with the correct. The best practice is to upload them to your personal webspace as you develop your story so that you can make sure they work correctly as you go.
 
-**11. Optional Bells and Whistles for your Interview (if you have time):**<br> Put URL links to other webpages or web resources into your story. E.g. ```<a href="http://google.com">Link text here.</a>```
+11. **Optional Bells and Whistles for your Interview (if you have time):**<br> Put URL links to other webpages or web resources into your story. E.g. ```<a href="http://google.com">Link text here.</a>```
+
 12. Put URL links to other webpages or web resources into your story using an image as the link “button.” E.g. ```<a href="http://dell.com/"><img src="https://dell.to/2J0Nn2e"></a>```
+
 13. Embed a YouTube video into one of your passages. Note in the code below how you need to modify the YouTube URL for this work by deleting the “watch?v=” from the URL and replacing it with “embed/” :
 ```<iframe width="560" height="315" src="https://www.youtube.com/embed/_JF0Jys5ITc" frameborder="0" allowfullscreen></iframe>```
 14. Here is a more fully developed [example of a Laptop Buyers Guide](http://bit.ly/2Iv0kkz){:target="_blank"} 

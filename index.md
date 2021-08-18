@@ -5,34 +5,30 @@ nav_order: 1
 ---
 <img src="WORKSHOP-LOGO-HERE.png" style="float:right;width:180px;height:180px;"> 
 
-# WORKSHOP TITLE HERE (Use Regular Case Like this)
+# Interactive, Nonlinear Stories and Guided Interviews with Twine
 
-- Pre-workshop activities: 00 min 
-- Introductory presentation: 00 min
-- Hands-on activities: 00-00 min
+- Pre-workshop activities: 25 min 
+- Introductory presentation: 10 min
+- Hands-on activities: 60-90 min
 
-## Why TOOL NAME HERE? 
+## Why Twine? 
 
-[TOOL NAME](https://TOOL-URL-HERE.org/){:target="_blank"} Desribe the tool and how it can be used. This is an example of the description for Taguette:
+[Twine](http://twinery.org/2/){:target="_blank"} is an open source tool that can be used to create stories that are interactive and non-linear. Twine can be used for multiple purposes including Guided Interviews or storytelling. It creates a game based experience by which the user has options and choices throughout the sequence of the story. With Twine work is saved in the browser and there is no need to create an account. 
 
-[Taguette](https://taguette.org/) a user-friendly and free web-based tool that helps researchers to code and analyse their qualitative data. Taguette is a great tool for those who need to analyze interviews, reports, transcripts of any kinds, and a variety of text. With the tool, we can create codes and analyse texts easily and export in different file formats. If you have some or a lot of text to analyse, Taguette might be a great option for you.
+## Learning objectives
+Participants will be able to do the following by the end of this workshop:
 
-This workshop uses the OpenSource _Taguette_ software because it is free to use and many find it easier to learn than [other popular commercial software packages](https://en.wikipedia.org/wiki/Computer-assisted_qualitative_data_analysis_software){:target="_blank"}. 
-
-This workshop is not an endorsement of Taguette; there are many options for qualitative analysis and coding and other software may be better in other contexts. While an excellent teaching tool, _Taguette_ imposes some limitations that users should be aware of:
-
-- Only text can be coded. For example videos and images can not be coded.
-- Passanges coded with different tags have the same colour in Taguette. 
-- Only basic analysis can be done in Taguette. External tools, like Microsoft Excel, can be used for more advanced analysis are covered in this workshop.
-
-## Learning objectives - UPDATE FOR THE NEW TOOL
-
-At the end of this workshop, you will be able to:
-
-1. Identify the differences between manual coding and coding with qualitative coding software
-2. Use Taguette on either their personal computer or on a cloud-based server
-3. Will have coded at least two texts of their choosing (interviews, speeches, lectures, announcements, etc.) using techniques covered in the workshop
-4. Will have research materials with codes and have exported them
-5. Created a basic analysis of coded data in Excel
+1. Navigate around the Twine app, including, Archive and Import stories.
+2. Know why “Archiving” stories is so important.
+3. Be able to create a new story.
+4. Be able to create new [[passages]] to a story.
+5. Know basic markup tags and **how to use them**.
+6. Know how to modify background formatting with CSS.
+7. Be able to add images from other web servers.
+8. Know where to find other projects and tutorials for learning how to use Twine.
+9. Be able to add a random event in the text.
+10. Be able to add links to YouTube videos. 
+11. Know where to find directions so they can upload their Twine story to their UVic webspace.
+12. Be able to use variables to track reader selections throughout a story (or interview).
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }

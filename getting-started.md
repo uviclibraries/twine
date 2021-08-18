@@ -4,27 +4,33 @@ title: 2-Getting Started with Twine
 nav_order: 3
 parent: Workshop Activities
 ---
+<img src="images//twine-intro-01.png" style="float:right;width:180px;height:180px;" alt="twine logo"> 
 # Interactive, Nonlinear Stories with Twine: Getting Started
 If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 **Note:** To avoid compatibility issues, **DO NOT use the SAFARI web browser on Macs!** Please use Firefox or Chrome web browsers instead of Safari.
-
+<img src="images//twine-intro-02.png" style="float:right" alt="+Story button"> 
 1. Create a new story by navigating to [the Twine website](http://twinery.org/2/){:target="_blank"} and clicking on the green “+ Story” button on the right-hand navigation bar. Give your story a name something like, “In The Beginning” (which you can change later if you want to).
+<img src="images//twine-intro-03.png" style="float:right;width:180px;height:180px;" alt="Unintitled Passage box"> 
 2. Open your word processing document where you have your story laid, or if you don’t have your own story you can use our MakerSpace Aliens sample story: https://goo.gl/6FAEuo 
 3. Double click on the “Untitled Passage” box on the screen and start importing your story into Twine by copying and pasting the first passage of text into the text box. Also title the passage, as this is key to linking different passages together. 
+<img src="images//twine-intro-04.png" style="float:right;width:200px;height:200px;" alt="Boxes where text is linking"> 
 4. To create other passages, simply surround the text in the document with double square brackets, and this automatically creates another passage. E.g.: **“Just testing how to create a [[link to another document]] in a story.”** Give this a try now if you haven’t already. You will see the auto-generated passage similar to the image to the right when you close the current passage.
 5. Go ahead and create all the other passages for your story, by copy and pasting the text into passages as you just did above.
 6. Next please insert an image into one of your passages by typing or pasting the following HTML into the passage. If you would like to use your own image, paste the URL of your own image in place of the URL below between the quotation marks: 
 ```
 <img src="https://bit.ly/32DnMcw" width="500">
 ```
+![Demonstration of Step 6: Inserting an Image](images//twine-intro-05.gif)
 7. Experiment with different text types of formatting in a passage. 
     - Bold: This is done by putting two stars on either side of the text: ```**Bold text**```
     - Underline: Put the HTML tags for underline on either side of the text: ```<u>underline</u>```
     - Italicize: Put one star on either side of the text: ```*italicize text*```
+![Demonstration of Step 6: Text formats](images//twine-intro-06.gif)
 8. Rename one of the links (inside the double square brackets) in your first passage and see what happens.  
     - How can you fix it?
     - What happens when you change the title of one of your passages below your starting passage? This is how you change a link: by changing the title of the passage below it.
-9. Change the background colour, font type and font colour of your story by clicking on the title of your story on the bottom left of the screen (in my case, “MakerSpace Zombie Apocalypse”) and then click on “Edit Story Stylesheet.” Now type in the following code: 
+![Demonstration of Step 8: Renaming links](images//twine-intro-07.gif)
+9. <img src="images//twine-intro-08.png" style="float:right;width:200px" alt="Edit Storysheet button"> Change the background colour, font type and font colour of your story by clicking on the title of your story on the bottom left of the screen (in my case, “MakerSpace Zombie Apocalypse”) and then click on “Edit Story Stylesheet.” Now type in the following code: 
 ```
 tw-passage {
 	font-family: arial;
@@ -40,7 +46,7 @@ tw-link {
 	font-weight: normal;
 }
 ```
-10. It’s important to remember to save your story fairly frequently as the story is being stored on your local hard drive. To do this, **click on the title of your story on the bottom left of the screen** (in my case, “MakerSpace Zombie Apocalypse”) and then **click on “Publish to File”**.  This will save the story to your local hard drive, and then you can email it to yourself or save it to a thumb drive for safekeeping.
+10. <img src="images//twine-intro-09.png" style="float:right;width:200px" alt="Publish to file button"> It’s important to remember to save your story fairly frequently as the story is being stored on your local hard drive. To do this, **click on the title of your story on the bottom left of the screen** (in my case, “MakerSpace Zombie Apocalypse”) and then **click on “Publish to File”**.  This will save the story to your local hard drive, and then you can email it to yourself or save it to a thumb drive for safekeeping.
 11. Try to upload your story and images to your personal UVic webspace. For directions on how to do this [look here](http://bit.ly/2QlRZo0){:target="_blank"}
     - Note: If you are using your own images, they must be available somewhere on the web, or also uploaded to your webspace with the correct. The best practice is to upload them to your personal webspace as you develop your story so that you can make sure they work correctly as you go.
     - If you’re not able to upload your story, we will post it to a website for you. Please email your file to: dscommons@uvic.ca <br>

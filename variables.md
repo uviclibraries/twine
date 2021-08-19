@@ -5,13 +5,13 @@ nav_order: 5
 parent: Workshop Activities
 ---
 # Using Variables to keep track of selections without branching
+<img src="images//twine-variables-01.png" style="float:right;width:250px" alt=image of coding for links>
 If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance. If you’d like to see an excellent example of a story that uses variables, please check out this [Poetry Story Escape story](https://web.uvic.ca/~rmccue/escape-room.html){:target="_blank"} , written by Karlie Castle, a UVic Education student. If you’d like to see how the story was made, ask your instructor how you can download a local copy of the story and look at it in Twine’s editor view. Have fun!  **Note**: To avoid compatibility issues, on Macs please use Firefox or Chrome web browsers instead of Safari.
-<img src="images//twine-variables-01.png" style="float:right;width:200px" alt=logo>
 
-1. Create a new story by navigating to [the Twine website](http://twinery.org/2/){:target="_blank"} and clicking on the green “+ Story” button on the right-hand navigation bar. Give your story a name something like, “**Teagan’s Story**” (which you can change later if you want to).
+1. <img src="images//twine-variables-02.png" style="float:right;width:180px;height:60px;" alt="+Story button">Create a new story by navigating to [the Twine website](http://twinery.org/2/){:target="_blank"} and clicking on the green “+ Story” button on the right-hand navigation bar. Give your story a name something like, “**Teagan’s Story**” (which you can change later if you want to).
 2. Open your word processing document where you have your story laid, or if you don’t have your own story you can use our sample [Teagan’s Story](http://bit.ly/2KQmbbq){:target="_blank"}  
-3. Double click on the “**Untitled Passage**” box on the screen and start importing your story into Twine by copying and pasting the first passage of text into the text box. Also title the passage, as this is key to linking different passages together. 
-4. Note the format in the text you just pasted into the passage that will allow you to save and access some text for use or reference later in the story. For example: 
+3. <img src="images//twine-variables-03.png" style="float:right;width:120px;height:120px;" alt="Unintitled Passage box"> Double click on the “**Untitled Passage**” box on the screen and start importing your story into Twine by copying and pasting the first passage of text into the text box. Also title the passage, as this is key to linking different passages together. 
+4. <img src="images//twine-variables-04.png" style="float:right;width:180px" alt="Boxes with text is linking"> Note the format in the text you just pasted into the passage that will allow you to save and access some text for use or reference later in the story. For example: 
 ```(link: "kindness")[\(set: $gift to "kindness")\(go-to: "Step1")\]```
 - The link text displayed in the passage is: “**kindness**”
 - The variable or text holder is **$gift**, and the value or text it is storing, in this case, is “**kindness**”. 
@@ -19,10 +19,13 @@ If you have any questions or get stuck as you work through this in-class exercis
 5. Note that for each of the other related variable links below that the variable or holder in all three cases is **$gift** and the goto passage in all three cases is “**Step1**”, only the value being assigned or set is different:
 - ```(link: "knowledge")[\(set: $gift to "knowledge")\(go-to: "Step1")\]```
 - ```(link: "immortality")[\(set: $gift to "immortality")\(go-to: "Step1")\]```
+![Demonstration of Step 5 Links](images//twine-variables-05.gif)
 6. To add a gift option, you could copy/paste the command in Step 4 and change the link and variable like this:
 - ```(link: “bravery")[\(set: $gift to "bravery")\(go-to: "Step1")\]```
+![Demonstration of Step 6 Changing links](images//twine-variables-06.gif)
 7. To check the **$gift** variable in a later passage and then present different options based on the value of the **$gift**, you can use the following code:
 ```The monster charged forward and then (if: $gift is "knowledge") [unfortunately your (print: $gift) was not able to help you and you die.] (else:) [your gift of (print: $gift) saved you from the dragon!]```
+![Demonstration of Step 7 Gift Variable](images//twine-variables-07.gif)
 8. Go ahead and create all the other passages for your story, by either writing it yourself or copy and pasting the text into passages as you just did above for the sample story.
 9. Try to upload your story to your personal UVic webspace. For directions on how to do this [look here](http://bit.ly/2QlRZo0){:target="_blank"} 
 

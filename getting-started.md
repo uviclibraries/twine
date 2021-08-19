@@ -10,7 +10,7 @@ If you and your group have any questions or get stuck as you work through this i
 **Note:** To avoid compatibility issues, **DO NOT use the SAFARI web browser on Macs!** Please use Firefox or Chrome web browsers instead of Safari.
 <img src="images//twine-intro-02.png" style="float:right;width:180px;height:60px;" alt="+Story button">
 1. Create a new story by navigating to [the Twine website](http://twinery.org/2/){:target="_blank"} and clicking on the green “+ Story” button on the right-hand navigation bar. Give your story a name something like, “In The Beginning” (which you can change later if you want to).
-<img src="images//twine-intro-03.png" style="float:right;width:180px;height:180px;" alt="Unintitled Passage box"> 
+<img src="images//twine-intro-03.png" style="float:right;width:150px;height:150px;" alt="Unintitled Passage box"> 
 2. Open your word processing document where you have your story laid, or if you don’t have your own story you can use our MakerSpace Aliens sample story: https://goo.gl/6FAEuo 
 3. Double click on the “Untitled Passage” box on the screen and start importing your story into Twine by copying and pasting the first passage of text into the text box. Also title the passage, as this is key to linking different passages together. 
 <img src="images//twine-intro-04.png" style="float:right;width:220px" alt="Boxes where text is linking"> 

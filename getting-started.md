@@ -7,7 +7,9 @@ parent: Workshop Activities
 <img src="images//twine-intro-01.png" style="float:right;width:180px;height:180px;" alt="twine logo"> 
 # Interactive, Nonlinear Stories with Twine: Getting Started
 If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
-**Note:** To avoid compatibility issues, **DO NOT use the SAFARI web browser on Macs!** Please use Firefox or Chrome web browsers instead of Safari.
+**Note:** To avoid compatibility issues... 
+**DO NOT use the SAFARI web browser on Macs!** 
+Please use Firefox or Chrome web browsers instead of Safari.
 <img src="images//twine-intro-02.png" style="float:right;width:180px;height:60px;" alt="+Story button">
 1. Create a new story by navigating to [the Twine website](http://twinery.org/2/){:target="_blank"} and clicking on the green “+ Story” button on the right-hand navigation bar. Give your story a name something like, “In The Beginning” (which you can change later if you want to).
 <img src="images//twine-intro-03.png" style="float:right;width:140px;height:140px;" alt="Unintitled Passage box"> 

@@ -13,7 +13,9 @@ nav_order: 1
 
 ## Why Twine? 
 
-[Twine](http://twinery.org/2/){:target="_blank"} is an open source tool that can be used to create stories that are interactive and non-linear. Twine can be used for multiple purposes including Guided Interviews or storytelling including embeded images, video, and audio if desired. Twine can also create game based experiences which gives readers options and choices throughout the the story. All reader choices and selections in Twine stories are saved locally in the readers' web browser and there is also no need to create an account, which means that there are little to no privacy concerns when using Twine in educational settings. 
+[Twine](http://twinery.org/2/){:target="_blank"} is an open source tool that can be used to create stories that are interactive and non-linear. Twine can be used for multiple purposes including Guided Interviews or storytelling including embeded images, video, and audio if desired. 
+
+Twine can also create game based experiences which gives readers options and choices throughout the the story. All reader choices and selections in Twine stories are saved locally in the readers' web browser and there is also no need to create an account, which means that there are little to no privacy concerns when using Twine in educational settings. 
 
 ## Learning objectives
 Participants will be able to do the following by the end of this workshop:

@@ -8,13 +8,12 @@ parent: Workshop Activities
 # Interactive, Nonlinear Stories with Twine: Getting Started
 If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 **Note:** To avoid compatibility issues, **DO NOT use the SAFARI web browser on Macs!** Please use Firefox or Chrome web browsers instead of Safari.
-<img src="images//twine-intro-02.png" style="float:right;width:200px;height:80px;" alt="+Story button"> 
+<img src="images//twine-intro-02.png" style="float:right;width:180px;height:60px;" alt="+Story button">
 1. Create a new story by navigating to [the Twine website](http://twinery.org/2/){:target="_blank"} and clicking on the green “+ Story” button on the right-hand navigation bar. Give your story a name something like, “In The Beginning” (which you can change later if you want to).
-<img src="images//twine-intro-03.png" style="float:right;width:180px;height:180px;" alt="Unintitled Passage box"> 
-2. Open your word processing document where you have your story laid, or if you don’t have your own story you can use our MakerSpace Aliens sample story: https://goo.gl/6FAEuo 
+<img src="images//twine-intro-03.png" style="float:right;width:140px;height:140px;" alt="Unintitled Passage box"> 
+2. Open your word processing document where you have your story laid, or if you don’t have your own story you can use our [MakerSpace Aliens sample story](https://goo.gl/6FAEuo){:target="_blank"} 
 3. Double click on the “Untitled Passage” box on the screen and start importing your story into Twine by copying and pasting the first passage of text into the text box. Also title the passage, as this is key to linking different passages together. 
-<img src="images//twine-intro-04.png" style="float:right;width:220px" alt="Boxes where text is linking"> 
-4. To create other passages, simply surround the text in the document with double square brackets, and this automatically creates another passage. E.g.: **“Just testing how to create a [[link to another document]] in a story.”** Give this a try now if you haven’t already. You will see the auto-generated passage similar to the image to the right when you close the current passage.
+4. <img src="images//twine-intro-04.png" style="float:right;width:220px" alt="Boxes where text is linking">  To create other passages, simply surround the text in the document with double square brackets, and this automatically creates another passage. E.g.: **“Just testing how to create a [[link to another document]] in a story.”** Give this a try now if you haven’t already. You will see the auto-generated passage similar to the image to the right when you close the current passage.
 5. Go ahead and create all the other passages for your story, by copy and pasting the text into passages as you just did above.
 6. Next please insert an image into one of your passages by typing or pasting the following HTML into the passage. If you would like to use your own image, paste the URL of your own image in place of the URL below between the quotation marks: 
 ```
@@ -55,9 +54,9 @@ tw-link {
 
 13.  Put URL links to other webpages or web resources into your story using an image as the link “button.” E.g. ```<a href="http://uvic.ca"><img src="https://jillianmccue.ca/wp-content/uploads/2016/04/goat.jpg"></a>```
 
-14.  To make your “display test” different that the name of the passage you want to link you, use this format for your link: ```[[Display Text|Text of passage title]]```  Note: Make sure there are no extra spaces, and the case is identical for the passage title. 
+14.  To make your “display test” different that the name of the passage you want to link you, use this format for your link: ```[[Display Text|Text of passage title]]```  **Note: Make sure there are no extra spaces, and the case is identical for the passage title. **
 
-15.  Embed a YouTube video into one of your passages. Note in the code below how you need to modify the YouTube URL for this work by deleting the “**watch?v=**” from the URL and replacing it with “**embed/**” :
+15.  Embed a YouTube video into one of your passages. **Note in the code below how you need to modify the YouTube URL for this work by deleting the “watch?v=” from the URL and replacing it with “embed/” :**
 ```<iframe width="560" height="315" src="https://www.youtube.com/embed/JRY8TjB9d4U" frameborder="0" allowfullscreen></iframe>```
 
 16. Add a coin flip or other random event to one of your passages so that the story branches to one of two different passages depending on the coin flip for example. Note: you can have more than two items for your random event.```(either:"[[heads]]","[[tails]]","[[The coin falls into the storm drain]]")```

@@ -21,7 +21,7 @@ Please use Firefox or Chrome web browsers instead of Safari.
 ```
 <img src="https://bit.ly/32DnMcw" width="500">
 ```
-![Demonstration of Step 6: Inserting an Image](images/twine-intro-05.gif)
+[Demonstration of Step 6: Inserting an Image](images/twine-intro-05.gif)
 7. Experiment with different text types of formatting in a passage. 
     - Bold: This is done by putting two stars on either side of the text: ```**Bold text**```
     - Underline: Put the HTML tags for underline on either side of the text: ```<u>underline</u>```

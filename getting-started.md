@@ -21,12 +21,12 @@ Please use Firefox or Chrome web browsers instead of Safari.
 ```
 <img src="https://bit.ly/32DnMcw" width="500">
 ```
-<img src="twine-intro-05b.gif" alt="Insert image animated gif">
+<img src="images/twine-intro-05b.gif" alt="Insert image animated gif">
 7. Experiment with different text types of formatting in a passage. 
     - Bold: This is done by putting two stars on either side of the text: ```**Bold text**```
     - Underline: Put the HTML tags for underline on either side of the text: ```<u>underline</u>```
     - Italicize: Put one star on either side of the text: ```*italicize text*```
-<img src="images//twine-intro-06.gif" alt="Text formats animated gif">
+<img src="images/twine-intro-06.gif" alt="Text formats animated gif">
 8. Rename one of the links (inside the double square brackets) in your first passage and see what happens.  
     - How can you fix it?
     - What happens when you change the title of one of your passages below your starting passage? This is how you change a link: by changing the title of the passage below it.

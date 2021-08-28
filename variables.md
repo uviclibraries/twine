@@ -19,7 +19,7 @@ If you have any questions or get stuck as you work through this in-class exercis
 5. Note that for each of the other related variable links below that the variable or holder in all three cases is **$gift** and the goto passage in all three cases is “**Step1**”, only the value being assigned or set is different:
 - ```(link: "knowledge")[\(set: $gift to "knowledge")\(go-to: "Step1")\]```
 - ```(link: "immortality")[\(set: $gift to "immortality")\(go-to: "Step1")\]```
-![Demonstration of Step 5 Links](images//twine-variables-05.gif)
+<img src="images/twine-variables-05b.gif" alt="Links">
 6. To add a gift option, you could copy/paste the command in Step 4 and change the link and variable like this:
 - ```(link: “bravery")[\(set: $gift to "bravery")\(go-to: "Step1")\]```
 ![Demonstration of Step 6 Changing links](images//twine-variables-06.gif)

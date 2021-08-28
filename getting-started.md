@@ -21,7 +21,7 @@ Please use Firefox or Chrome web browsers instead of Safari.
 ```
 <img src="https://bit.ly/32DnMcw" width="500">
 ```
-<img src="images/twine-intro-05.gif" alt="Insert image animated gif">
+<img src="https://lh5.googleusercontent.com/7VI2zvbanEhs8-6Yn9r1JA2VSiFlKJPon9huJN9-gjj5XtdvFisG7vvjJLaok_6r5QrVHsFA_tCXnbaEVpCUCKQX_jqK3vf0md0MwWTirIxN0cRDxUeW5IGgxS3rspg7j6sYfcW-=s0" alt="Insert image animated gif">
 7. Experiment with different text types of formatting in a passage. 
     - Bold: This is done by putting two stars on either side of the text: ```**Bold text**```
     - Underline: Put the HTML tags for underline on either side of the text: ```<u>underline</u>```

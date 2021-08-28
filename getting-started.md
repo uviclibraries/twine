@@ -26,11 +26,11 @@ Please use Firefox or Chrome web browsers instead of Safari.
     - Bold: This is done by putting two stars on either side of the text: ```**Bold text**```
     - Underline: Put the HTML tags for underline on either side of the text: ```<u>underline</u>```
     - Italicize: Put one star on either side of the text: ```*italicize text*```
-<img src="images/twine-intro-06.gif" alt="Text formats animated gif">
+<img src="images/twine-intro-06b.gif" alt="Text formats animated gif">
 8. Rename one of the links (inside the double square brackets) in your first passage and see what happens.  
     - How can you fix it?
     - What happens when you change the title of one of your passages below your starting passage? This is how you change a link: by changing the title of the passage below it.
-![Demonstration of Step 8: Renaming links](images/twine-intro-07.gif)
+    - <img src="images/twine-intro-07b.gif" alt="Renaming links">
 9. <img src="images/twine-intro-08.png" style="float:right;width:200px" alt="Edit Storysheet button"> Change the background colour, font type and font colour of your story by clicking on the title of your story on the bottom left of the screen (in my case, “MakerSpace Zombie Apocalypse”) and then click on “Edit Story Stylesheet.” Now type in the following code: 
 ```
 tw-passage {

@@ -6,7 +6,6 @@ nav_order: 2
 ## Pre-Workshop Videos & Activities
 This workshop is primarily hands-on practice with Twine in order to learn to get some experience and be able to create your own interactive story. To participate fully please do the following **before the workshop**:
 
-**25 minutes.**<br>
 - [Introduction for Beginners](https://www.youtube.com/watch?v=ZnARX2ToqYc){:target="_blank"} (7 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZnARX2ToqYc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - [Pre-workshop Quiz](https://goo.gl/forms/1eBZjRK8qIY3Oer03){:target="_blank"}{: .btn .btn-purple } 

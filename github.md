@@ -32,10 +32,11 @@ If you and your group have any questions or get stuck as you work through this i
 
 3. Upload your first Twine story or other files (if you’d like you can watch this narrated video of how to [upload your Twine story to GitHub](https://youtu.be/0FHgslaQnF4){:target="_blank"}:
   - Rename your Twine file name to **index.html** or if you don’t see the “.html” file extension, just rename it, **index**.
-  - Click on the upload an existing file link.
-  - Click on the choose your files link.
-  - Find your index.html or index file your local hard drive, and then select the file, and the press the Open button.
-  - After the file finishes uploading, scroll to the bottom of the page, and click on the green Commit changes button.
+<img src="images/github-upload-file.gif" alt="GitHub Upload File animated gif">
+  - Click on the **upload an existing file** link.
+  - Click on the c**hoose your file**s link.
+  - Find your **index.html** or **index** file your local hard drive, and then **select** the file, and the press the **Open** button.
+  - After the file finishes uploading, scroll to the bottom of the page, and click on the green **Commit changes** button.
   - Congratulations, you’ve uploaded your first file to your new GitHub repository!
 
 

@@ -47,21 +47,22 @@ If you and your group have any questions or get stuck as you work through this i
   - Scroll to the bottom of the page and press the green **Commit new file** button.
   - Congratulations, you’ve created an images folder for your new GitHub repository!
 
-Upload an image to your images folder in your GitHub repository (if you’d like you can watch this narrated video of how to upload an image to your new image directory - https://youtu.be/ATVm6ACERu8):
-Note: It is much easier for you as you create a GitHub website if you modify the file names for your images to make them short, descriptive, without spaces, and all lower case (eg: “inner-harbour.jpg” instead of “Victoria Inner Harbour in the afternoon.jpg”).
-You should be in your images folder, but if you aren’t click on the images directory folder.
-Click on the Add file drop down menu.
-Then select Upload files.
-On the next webpage click on the blue choose your files link in the middle of the page and select an image file, or drag and drop your images into the middle of the page (remember that your life will be easier if you rename your files before you upload them so that they are short, and don’t have any spaces in the file name: eg: black-dog.jpg)
-Scroll to the bottom of the page and press the green Commit new file button.
-Repeat this process for each image file, or select multiple image files to upload them at the same time.
+5. Upload an image to your images folder in your GitHub repository (if you’d like you can watch this narrated video of how to [upload an image to your new image directory](https://youtu.be/ATVm6ACERu8){:target="_blank"}:
+  - Note: It is much easier for you as you create a GitHub website if you modify the file names for your images to make them short, descriptive, without spaces, and all lower case (eg: “inner-harbour.jpg” instead of “Victoria Inner Harbour in the afternoon.jpg”).
+<img src="images/github-upload-images.gif" alt="GitHub Create Image Directory animated gif">  
+  - You should be in your images folder, but if you aren’t click on the images directory folder.
+  - Click on the Add file drop down menu.
+  - Then select Upload files.
+  - On the next webpage click on the blue choose your files link in the middle of the page and select an image file, or drag and drop your images into the middle of the page (remember that your life will be easier if you rename your files before you upload them so that they are short, and don’t have any spaces in the file name: eg: black-dog.jpg)
+  - Scroll to the bottom of the page and press the green Commit new file button.
+  - Repeat this process for each image file, or select multiple image files to upload them at the same time.
 
 
-Enable GitHub Pages to make your website public (if you’d like you can watch this narrated video of how to enable GitHub Pages -  https://youtu.be/DqjPr7auwdY)
-Click on the Settings button on the top right of the webpage.
-On navigation menu on the left side of the screen, scroll down to the Pages button near the bottom of the menu and click on it.
-Near the top of the webpage under the “Source” header, select the None drop down menu, then select main, and then click on the Save button.
-Your new web address will be displayed on your page in the blue box (eg: https://richardmccue.github.io/website). It will take a few minutes before GitHub has created your website, so if you click on it an you get an error message wait at least 1 minute before trying again.
+6. Enable GitHub Pages to make your website public (if you’d like you can watch this narrated video of how to enable GitHub Pages -  https://youtu.be/DqjPr7auwdY)
+  - Click on the Settings button on the top right of the webpage.
+  - On navigation menu on the left side of the screen, scroll down to the Pages button near the bottom of the menu and click on it.
+  - Near the top of the webpage under the “Source” header, select the None drop down menu, then select main, and then click on the Save button.
+  - Your new web address will be displayed on your page in the blue box (eg: https://richardmccue.github.io/website). It will take a few minutes before GitHub has     - created your website, so if you click on it an you get an error message wait at least 1 minute before trying again.
  
-Great job on creating your first GitHub Pages website!
+7. Great job on creating your first GitHub Pages website!
 

@@ -39,13 +39,12 @@ If you and your group have any questions or get stuck as you work through this i
   - After the file finishes uploading, scroll to the bottom of the page, and click on the green **Commit changes** button.
   - Congratulations, you’ve uploaded your first file to your new GitHub repository!
 
-
-Create an Images Directory to store photos in for your web page or twine story. This is necessary for personal photos that aren’t already publicly available on the web (if you’d like you can watch this narrated video of how to create an image directory -   https://youtu.be/FvCsnUgAdWA):
-Click on the Add file drop down menu.
-Then select Create new file.
-In the field that has Name your file… in grey text inside it, type: images/test.txt and then press the Enter key.
-Scroll to the bottom of the page and press the green Commit new file button.
-Congratulations, you’ve created an images folder for your new GitHub repository!
+4. Create an Images Directory to store photos in for your web page or twine story. This is necessary for personal photos that aren’t already publicly available on the web (if you’d like you can watch this narrated video of [how to create an image directory](https://youtu.be/FvCsnUgAdWA){:target="_blank"}:
+  - Click on the Add file drop down menu.
+  - Then select Create new file.
+  - In the field that has Name your file… in grey text inside it, type: images/test.txt and then press the Enter key.
+  - Scroll to the bottom of the page and press the green Commit new file button.
+  - Congratulations, you’ve created an images folder for your new GitHub repository!
 
 Upload an image to your images folder in your GitHub repository (if you’d like you can watch this narrated video of how to upload an image to your new image directory - https://youtu.be/ATVm6ACERu8):
 Note: It is much easier for you as you create a GitHub website if you modify the file names for your images to make them short, descriptive, without spaces, and all lower case (eg: “inner-harbour.jpg” instead of “Victoria Inner Harbour in the afternoon.jpg”).

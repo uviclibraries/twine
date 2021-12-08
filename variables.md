@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 4-Using Variables
+title: 3-Using Variables
 nav_order: 5
 parent: Workshop Activities
 ---

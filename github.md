@@ -58,8 +58,9 @@ If you and your group have any questions or get stuck as you work through this i
   - Repeat this process for each image file, or select multiple image files to upload them at the same time.
 
 
-6. Enable GitHub Pages to make your website public (if you’d like you can watch this narrated video of how to enable GitHub Pages -  https://youtu.be/DqjPr7auwdY)
+6. Enable GitHub Pages to make your website public (if you’d like you can watch this narrated video of [how to enable GitHub Pages](https://youtu.be/DqjPr7auwdY){:target="_blank"}:
   - Click on the Settings button on the top right of the webpage.
+<img src="images/github-enable-pages.gif" alt="GitHub Enable Pages animated gif">
   - On navigation menu on the left side of the screen, scroll down to the Pages button near the bottom of the menu and click on it.
   - Near the top of the webpage under the “Source” header, select the None drop down menu, then select main, and then click on the Save button.
   - Your new web address will be displayed on your page in the blue box (eg: https://richardmccue.github.io/website). It will take a few minutes before GitHub has     - created your website, so if you click on it an you get an error message wait at least 1 minute before trying again.

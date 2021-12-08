@@ -9,6 +9,7 @@ If you and your group have any questions or get stuck as you work through this i
 
 1. Signup for a GitHub Account (if you’d like you can watch this narrated video on YouTube of the [GitHub account creation process](https://youtu.be/ovCRBERA1NQ){:target="_blank"}):
   - Go to the [GitHub.com](https://github.com){:target="_blank"} website and click on the **Sign up** button on the top right of the web page.
+<img src="images/github-account-setup.gif" alt="GitHub Account Setup animated gif">
   - Enter your email address in the field provided. Press **Continue**.
   - Create a password for your GitHub account. Press **Continue**.
   - Enter a username to be associated with your email address. Press **Continue**. 
@@ -20,7 +21,6 @@ If you and your group have any questions or get stuck as you work through this i
   - Click on the **Collaborative coding** check box, then scroll to the bottom of the page and press **Continue**.
   - Scroll to the bottom of the page and press **Continue for free**.
   - Congratulations, your account is setup!
-  <img src="images/github-account-setup.gif" alt="GitHub Account Setup animated gif">
 
 2. Create a repository for your web pages (if you’d like you can watch this narrated video of how to create a repository in your GitHub account -  ​​https://youtu.be/HhfPWwz8lVA):
   - Click on the green Create repository button on the left side of the screen.

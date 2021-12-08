@@ -22,21 +22,20 @@ If you and your group have any questions or get stuck as you work through this i
   - Congratulations, your account is setup!
   <img src="images/github-account-setup.gif" alt="GitHub Account Setup animated gif">
 
-Create a repository for your web pages (if you’d like you can watch this narrated video of how to create a repository in your GitHub account -  ​​https://youtu.be/HhfPWwz8lVA):
-Click on the green Create repository button on the left side of the screen.
-Type the name you want to give your repository in the Repository name field. You can choose your own name, but if you can’t think of something, go ahead and type in “website”.
-If you’d like your GitHub website to be publicly viewable leave the default setting, or change to Private if you’d prefer (you can change this in the future of course).
-Click on the Create repository button.
-Congratulations, you’ve created a repository to put your web pages in!
+2. Create a repository for your web pages (if you’d like you can watch this narrated video of how to create a repository in your GitHub account -  ​​https://youtu.be/HhfPWwz8lVA):
+  - Click on the green Create repository button on the left side of the screen.
+  - Type the name you want to give your repository in the Repository name field. You can choose your own name, but if you can’t think of something, go ahead and type in “website”.
+  - If you’d like your GitHub website to be publicly viewable leave the default setting, or change to Private if you’d prefer (you can change this in the future of course).
+  - Click on the Create repository button.
+  - Congratulations, you’ve created a repository to put your web pages in!
 
-Upload your first Twine story or other files (if you’d like you can watch this narrated video of how to upload your Twine story to GitHub -  https://youtu.be/0FHgslaQnF4):
-Rename your Twine file name to index.html or if you don’t see the “.html” file extension, just rename it, index.
-Click on the upload an existing file link.
-
-Click on the choose your files link.
-Find your index.html or index file your local hard drive, and then select the file, and the press the Open button.
-After the file finishes uploading, scroll to the bottom of the page, and click on the green Commit changes button.
-Congratulations, you’ve uploaded your first file to your new GitHub repository!
+3. Upload your first Twine story or other files (if you’d like you can watch this narrated video of how to upload your Twine story to GitHub -  https://youtu.be/0FHgslaQnF4):
+  - Rename your Twine file name to index.html or if you don’t see the “.html” file extension, just rename it, index.
+  - Click on the upload an existing file link.
+  - Click on the choose your files link.
+  - Find your index.html or index file your local hard drive, and then select the file, and the press the Open button.
+  - After the file finishes uploading, scroll to the bottom of the page, and click on the green Commit changes button.
+  - Congratulations, you’ve uploaded your first file to your new GitHub repository!
 
 
 Create an Images Directory to store photos in for your web page or twine story. This is necessary for personal photos that aren’t already publicly available on the web (if you’d like you can watch this narrated video of how to create an image directory -   https://youtu.be/FvCsnUgAdWA):

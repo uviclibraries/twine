@@ -8,35 +8,34 @@ parent: Workshop Activities
 If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
 1. Signup for a GitHub Account (if you’d like you can watch this narrated video on YouTube of the [GitHub account creation process](https://youtu.be/ovCRBERA1NQ){:target="_blank"}):
-  - Go to the [GitHub.com](https://github.com){:target="_blank"} website and click on the Sign up button on the top right of the web page.
-  - Enter your email address in the field provided. Press Continue.
-  - Create a password for your GitHub account. Press Continue.
-  - Enter a username to be associated with your email address. Press Continue. 
+  - Go to the [GitHub.com](https://github.com){:target="_blank"} website and click on the **Sign up** button on the top right of the web page.
+  - Enter your email address in the field provided. Press **Continue**.
+  - Create a password for your GitHub account. Press **Continue**.
+  - Enter a username to be associated with your email address. Press **Continue**. 
   - Note: Your username will be publicly visible, and your email address will not be publicly visible, so if you’d like a measure of anonymity, use a pseudonym for your user name.
-  - If  you’d like GitHub product updates type “y” and press Continue, otherwise type “n” and press Continue.
-  - Complete two puzzles to let GitHub know that you are a real person and not a bot, and then press Create account.
-  - An 8-diget code will be sent to your email address. Please copy that code and paste in into the Enter code field.
-  - Click on the Just me button, the Student button and then press Continue.
-  - Click on the Collaborative coding check box, then scroll to the bottom of the page and press Continue.
-  - Scroll to the bottom of the page and press Continue for free.
+  - If  you’d like GitHub product updates type “**y**” and press Continue, otherwise type “**n**” and press **Continue**.
+  - Complete two puzzles to let GitHub know that you are a real person and not a bot, and then press **Create account**.
+  - An 8-diget code will be sent to your email address. Please copy that code and paste in into the **Enter code** field.
+  - Click on the **Just me** button, the **Student** button and then press **Continue**.
+  - Click on the **Collaborative coding** check box, then scroll to the bottom of the page and press **Continue**.
+  - Scroll to the bottom of the page and press **Continue for free**.
   - Congratulations, your account is setup!
-  
+  <img src="images/github-account-setup.gif" alt="GitHub Account Setup animated gif">
 
-Create a repository for your web pages (if you’d like you can watch this narrated video of how to create a repository in your GitHub account -  ​​https://youtu.be/HhfPWwz8lVA):
-Click on the green Create repository button on the left side of the screen.
-Type the name you want to give your repository in the Repository name field. You can choose your own name, but if you can’t think of something, go ahead and type in “website”.
-If you’d like your GitHub website to be publicly viewable leave the default setting, or change to Private if you’d prefer (you can change this in the future of course).
-Click on the Create repository button.
-Congratulations, you’ve created a repository to put your web pages in!
+2. Create a repository for your web pages (if you’d like you can watch this narrated video of how to create a repository in your GitHub account -  ​​https://youtu.be/HhfPWwz8lVA):
+  - Click on the green Create repository button on the left side of the screen.
+  - Type the name you want to give your repository in the Repository name field. You can choose your own name, but if you can’t think of something, go ahead and type in “website”.
+  - If you’d like your GitHub website to be publicly viewable leave the default setting, or change to Private if you’d prefer (you can change this in the future of course).
+  - Click on the Create repository button.
+  - Congratulations, you’ve created a repository to put your web pages in!
 
-Upload your first Twine story or other files (if you’d like you can watch this narrated video of how to upload your Twine story to GitHub -  https://youtu.be/0FHgslaQnF4):
-Rename your Twine file name to index.html or if you don’t see the “.html” file extension, just rename it, index.
-Click on the upload an existing file link.
-
-Click on the choose your files link.
-Find your index.html or index file your local hard drive, and then select the file, and the press the Open button.
-After the file finishes uploading, scroll to the bottom of the page, and click on the green Commit changes button.
-Congratulations, you’ve uploaded your first file to your new GitHub repository!
+3. Upload your first Twine story or other files (if you’d like you can watch this narrated video of how to upload your Twine story to GitHub -  https://youtu.be/0FHgslaQnF4):
+  - Rename your Twine file name to index.html or if you don’t see the “.html” file extension, just rename it, index.
+  - Click on the upload an existing file link.
+  - Click on the choose your files link.
+  - Find your index.html or index file your local hard drive, and then select the file, and the press the Open button.
+  - After the file finishes uploading, scroll to the bottom of the page, and click on the green Commit changes button.
+  - Congratulations, you’ve uploaded your first file to your new GitHub repository!
 
 
 Create an Images Directory to store photos in for your web page or twine story. This is necessary for personal photos that aren’t already publicly available on the web (if you’d like you can watch this narrated video of how to create an image directory -   https://youtu.be/FvCsnUgAdWA):

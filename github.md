@@ -8,17 +8,17 @@ parent: Workshop Activities
 If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
 1. Signup for a GitHub Account (if you’d like you can watch this narrated video on YouTube of the [GitHub account creation process](https://youtu.be/ovCRBERA1NQ){:target="_blank"}):
-  - Go to the [GitHub.com](https://github.com){:target="_blank"} website and click on the Sign up button on the top right of the web page.
-  - Enter your email address in the field provided. Press Continue.
-  - Create a password for your GitHub account. Press Continue.
-  - Enter a username to be associated with your email address. Press Continue. 
+  - Go to the [GitHub.com](https://github.com){:target="_blank"} website and click on the **Sign up** button on the top right of the web page.
+  - Enter your email address in the field provided. Press **Continue**.
+  - Create a password for your GitHub account. Press **Continue**.
+  - Enter a username to be associated with your email address. Press **Continue**. 
   - Note: Your username will be publicly visible, and your email address will not be publicly visible, so if you’d like a measure of anonymity, use a pseudonym for your user name.
-  - If  you’d like GitHub product updates type “y” and press Continue, otherwise type “n” and press Continue.
-  - Complete two puzzles to let GitHub know that you are a real person and not a bot, and then press Create account.
-  - An 8-diget code will be sent to your email address. Please copy that code and paste in into the Enter code field.
-  - Click on the Just me button, the Student button and then press Continue.
-  - Click on the Collaborative coding check box, then scroll to the bottom of the page and press Continue.
-  - Scroll to the bottom of the page and press Continue for free.
+  - If  you’d like GitHub product updates type “**y**” and press Continue, otherwise type “**n**” and press **Continue**.
+  - Complete two puzzles to let GitHub know that you are a real person and not a bot, and then press **Create account**.
+  - An 8-diget code will be sent to your email address. Please copy that code and paste in into the **Enter code** field.
+  - Click on the **Just me** button, the **Student** button and then press **Continue**.
+  - Click on the **Collaborative coding** check box, then scroll to the bottom of the page and press **Continue**.
+  - Scroll to the bottom of the page and press **Continue for free**.
   - Congratulations, your account is setup!
   <img src="images/github-account-setup.gif" alt="GitHub Account Setup animated gif">
 

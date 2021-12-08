@@ -22,8 +22,9 @@ If you and your group have any questions or get stuck as you work through this i
   - Scroll to the bottom of the page and press **Continue for free**.
   - Congratulations, your account is setup!
 
-2. Create a repository for your web pages (if you’d like you can watch this narrated video of how to create a repository in your GitHub account -  ​​https://youtu.be/HhfPWwz8lVA):
-  - Click on the green Create repository button on the left side of the screen.
+2. Create a repository for your web pages (if you’d like you can watch this narrated video of how to [create a repository in your GitHub account](https://youtu.be/HhfPWwz8lVA){:target="_blank"}:
+  - Click on the green **Create repository** button on the left side of the screen.
+<img src="images/github-create-repository.gif" alt="GitHub Create Repository animated gif">
   - Type the name you want to give your repository in the Repository name field. You can choose your own name, but if you can’t think of something, go ahead and type in “website”.
   - If you’d like your GitHub website to be publicly viewable leave the default setting, or change to Private if you’d prefer (you can change this in the future of course).
   - Click on the Create repository button.

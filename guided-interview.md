@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3-Guided Interviews with Twine
+title: 2-Guided Interviews with Twine
 nav_order: 4
 parent: Workshop Activities
 ---

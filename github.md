@@ -40,10 +40,11 @@ If you and your group have any questions or get stuck as you work through this i
   - Congratulations, you’ve uploaded your first file to your new GitHub repository!
 
 4. Create an Images Directory to store photos in for your web page or twine story. This is necessary for personal photos that aren’t already publicly available on the web (if you’d like you can watch this narrated video of [how to create an image directory](https://youtu.be/FvCsnUgAdWA){:target="_blank"}:
-  - Click on the Add file drop down menu.
-  - Then select Create new file.
-  - In the field that has Name your file… in grey text inside it, type: images/test.txt and then press the Enter key.
-  - Scroll to the bottom of the page and press the green Commit new file button.
+  - Click on the **Add file** drop down menu.
+<img src="images/github-images-folder.gif" alt="GitHub Create Image Directory animated gif">
+  - Then select **Create new file**.
+  - In the field that has **Name your file…** in grey text inside it, type: **images/test.txt** and then press the **Enter** key.
+  - Scroll to the bottom of the page and press the green **Commit new file** button.
   - Congratulations, you’ve created an images folder for your new GitHub repository!
 
 Upload an image to your images folder in your GitHub repository (if you’d like you can watch this narrated video of how to upload an image to your new image directory - https://youtu.be/ATVm6ACERu8):

@@ -8,7 +8,7 @@ parent: Workshop Activities
 If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
 1. Signup for a GitHub Account (if you’d like you can watch this narrated video on YouTube of the [GitHub account creation process](https://youtu.be/ovCRBERA1NQ){:target="_blank"}):
-  - Go to the [GitHub.com](https://github.com){:target="_blank"} website and click on the **Sign up** button on the top right of the web page. **Delete Me**<br>
+  - Go to the [GitHub.com](https://github.com){:target="_blank"} website and click on the **Sign up** button on the top right of the web page.
 <img src="images/github-account-setup.gif" alt="GitHub Account Setup animated gif">
   - Enter your email address in the field provided. Press **Continue**.
   - Create a password for your GitHub account. Press **Continue**.

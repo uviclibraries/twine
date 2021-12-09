@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1-Getting Started with Twine
+title: 1-Getting Started
 nav_order: 3
 parent: Workshop Activities
 ---

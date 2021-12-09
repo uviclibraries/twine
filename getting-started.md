@@ -48,7 +48,7 @@ tw-link {
 }
 ```
 10. <img src="images//twine-intro-09.png" style="float:right;height:250px" alt="Publish to file button"> It’s important to remember to save your story fairly frequently as the story is being stored on your local hard drive. To do this, **click on the title of your story on the bottom left of the screen** (in my case, “MakerSpace Zombie Apocalypse”) and then **click on “Publish to File”**.  This will save the story to your local hard drive, and then you can email it to yourself or save it to a thumb drive for safekeeping.
-11. To make your story and personal images publicly available on the internet, please follow the directions on our [Publish Your Twine Story on the Web Using GitNub Pages](github.html){:target="_blank"} activity.
+11. To make your story and personal images publicly available on the internet, please follow the directions on our [Publish Your Twine Story on the Web Using GitNub Pages](github.html) activity.
     - Note: If you are using your own images, they must be available somewhere on the web, or also uploaded to your webspace with the correct. The best practice is to upload them to your personal webspace as you develop your story so that you can make sure they work correctly as you go.<br>
 
 12. **Extra Credit Activities (if you have time)**:<br> Put URL links to other webpages or web resources into your story. E.g. ```<a href="http://google.com">Link text here.</a>```

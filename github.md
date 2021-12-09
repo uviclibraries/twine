@@ -54,7 +54,8 @@ If you and your group have any questions or get stuck as you work through this i
 5. Upload an image to your images folder in your GitHub repository (if you’d like you can watch this narrated video of how to [upload an image to your new image directory](https://youtu.be/ATVm6ACERu8){:target="_blank"}:
   - Note: **It is much easier for you as you create a GitHub website if you modify the file names for your images to make them short, descriptive, without spaces, and all lower case** (eg: “inner-harbour.jpg” instead of “Victoria Inner Harbour in the afternoon.jpg”).
 <img src="images/github-upload-images.gif" alt="GitHub Create Image Directory animated gif">  
-  - You should be in your images folder, but if you aren’t click on the **images** directory folder.
+  - You should be in your images folder, but if you aren’t click on the **images** directory folder.<br>
+<img src="images/github-image-upload.png" alt="GitHub Images Folder Link" width="400">
   - Click on the **Add file** drop down menu.
   - Then select **Upload files**.
   - On the next webpage click on the blue **choose your files** link in the middle of the page and select an image file, or drag and drop your images into the middle of the page (remember that **your life will be easier if you rename your files before you upload them so that they are short, and don’t have any spaces in the file name** - eg: black-dog.jpg)

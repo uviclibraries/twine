@@ -43,9 +43,9 @@ If you and your group have any questions or get stuck as you work through this i
 4. Create an Images Directory to store photos in for your web page or twine story. This is necessary for personal photos that aren’t already publicly available on the web (if you’d like you can watch this narrated video of [how to create an image directory](https://youtu.be/FvCsnUgAdWA){:target="_blank"}:
   - Click on the **Add file** drop down menu.
 <img src="images/github-images-folder.gif" alt="GitHub Images Folder animated gif">
-  - Then select **Create new file**.
+  - Then select **Create new file**.<br>
 <img src="images/github-create-new.png" alt="GitHub Create New File" width="400">
-  - In the field that has **Name your file…** in grey text inside it, type: **images/test.txt** and then press the **Enter** key.
+  - In the field that has **Name your file…** in grey text inside it, type: **images/test.txt** and then press the **Enter** key.<br>
 <img src="images/github-image-folder-1.png" alt="GitHub Image Folder 1" width="250"><br>
 <img src="images/github-image-folder-2.png" alt="GitHub Image Folder 2" width="250">
   - Scroll to the bottom of the page and press the green **Commit new file** button.

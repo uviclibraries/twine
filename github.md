@@ -34,7 +34,7 @@ If you and your group have any questions or get stuck as you work through this i
   - Rename your Twine file name to **index.html** or if you don’t see the “.html” file extension, just rename it, **index**.
 <img src="images/github-upload-file.gif" alt="GitHub Upload File animated gif">
   - Click on the **upload an existing file** link.
-<img src="images/github-upload-link.png" alt="GitHub Upload Link">
+<img src="images/github-upload-link.png" alt="GitHub Upload Link" width="400">
   - Click on the c**hoose your file**s link.
   - Find your **index.html** or **index** file your local hard drive, and then **select** the file, and the press the **Open** button.
   - After the file finishes uploading, scroll to the bottom of the page, and click on the green **Commit changes** button.
@@ -42,7 +42,9 @@ If you and your group have any questions or get stuck as you work through this i
 
 4. Create an Images Directory to store photos in for your web page or twine story. This is necessary for personal photos that aren’t already publicly available on the web (if you’d like you can watch this narrated video of [how to create an image directory](https://youtu.be/FvCsnUgAdWA){:target="_blank"}:
   - Click on the **Add file** drop down menu.
+<img src="images/github-images-folder.gif" alt="GitHub Images Folder animated gif">
   - Then select **Create new file**.
+<img src="images/github-create-new.png" alt="GitHub Create New File" width="400">
   - In the field that has **Name your file…** in grey text inside it, type: **images/test.txt** and then press the **Enter** key.
   - Scroll to the bottom of the page and press the green **Commit new file** button.
   - Congratulations, you’ve created an images folder for your new GitHub repository!

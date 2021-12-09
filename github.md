@@ -46,6 +46,8 @@ If you and your group have any questions or get stuck as you work through this i
   - Then select **Create new file**.
 <img src="images/github-create-new.png" alt="GitHub Create New File" width="400">
   - In the field that has **Name your file…** in grey text inside it, type: **images/test.txt** and then press the **Enter** key.
+<img src="images/github-image-folder-1.png" alt="GitHub Image Folder 1" width="250"><br>
+<img src="images/github-image-folder-2.png" alt="GitHub Image Folder 2" width="250">
   - Scroll to the bottom of the page and press the green **Commit new file** button.
   - Congratulations, you’ve created an images folder for your new GitHub repository!
 

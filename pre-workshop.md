@@ -13,6 +13,5 @@ This workshop is primarily hands-on practice with Twine in order to learn to get
 - OPTIONAL: On paper or in a word processor, create the concept for a short branching interview you can use in class to create your very own Twine interview! [Here’s an example](http://bit.ly/2Mm6cP){:target="_blank"}
 - OPTIONAL: [Making Twine Look Awesome with CSS](https://goo.gl/4hqP46){:target="_blank"} (5 min) (pdf)
 - OPTIONAL: [Adding Images and Music to Twine](https://goo.gl/6vec9k){:target="_blank"} (5 min) (pdf)
-- OPTIONAL: UVic webspace upload instructions (10 min) - [Web Hosting Students](https://www.uvic.ca/systems/support/web/webhosting-students/index.php){:target="_blank"} & [Web Hosting Faculty and Staff](https://www.uvic.ca/systems/support/web/webhosting-fac-staff/index.php){:target="_blank"}
        
 [NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }

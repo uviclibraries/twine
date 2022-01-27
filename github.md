@@ -4,7 +4,7 @@ title: 4-Publish with GitHub Pages
 nav_order: 6
 parent: Workshop Activities
 ---
-# Publish Your Twine Story on the Web Using GitHub Pages
+# Publish Your Twine Story or HTML Files on the Web Using GitHub Pages
 If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
 1. Signup for a GitHub Account (if you’d like you can watch this narrated video on YouTube of the [GitHub account creation process](https://youtu.be/ovCRBERA1NQ){:target="_blank"}):

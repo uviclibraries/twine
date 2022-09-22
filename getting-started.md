@@ -10,7 +10,7 @@ If you and your group have any questions or get stuck as you work through this i
 **Note:** To avoid compatibility issues... 
 **DO NOT use the SAFARI web browser on Macs!** 
 Please use Firefox or Chrome web browsers instead of Safari.
-<img src="images/twine-intro-02.png" style="float:right;width:180px;height:60px;" alt="+Story button">
+<img src="images/twine-intro-02.png" style="float:right;width:140px;height:60px;" alt="+New button">
 1. Create a new story by navigating to [the Twine website](http://twinery.org/2/){:target="_blank"} and clicking on the “+New” button on the top navigation bar. Give your story a name something like, “In The Beginning” (which you can change later if you want to).
 <img src="images/twine-intro-03.png" style="float:right;width:140px;height:140px;" alt="Unintitled Passage box"> 
 2. Open your word processing document where you have your story laid, or if you don’t have your own story you can [click here to use our Forest Adventure sample story](https://docs.google.com/document/d/12BeIFnMyKHyS0uQZbJxLBrIZ8lpEsUZ6vkjrj4gaLWE/edit?usp=sharing){:target="_blank"} which also contains a link to a live version of the story so you can test out an example of a Twine story. 

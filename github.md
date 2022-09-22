@@ -16,7 +16,7 @@ If you and your group have any questions or get stuck as you work through this i
   - Note: Your username will be publicly visible, and your email address will not be publicly visible, so if you’d like a measure of anonymity, use a pseudonym for your user name.
   - If  you’d like GitHub product updates type “**y**” and press Continue, otherwise type “**n**” and press **Continue**.
   - Complete two puzzles to let GitHub know that you are a real person and not a bot, and then press **Create account**.
-  - An 8-diget code will be sent to your email address. Please copy that code and paste in into the **Enter code** field.
+  - An 8-digit code will be sent to your email address. Please copy that code and paste in into the **Enter code** field.
   - Click on the **Just me** button, the **Student** button and then press **Continue**.
   - Click on the **Collaborative coding** check box, then scroll to the bottom of the page and press **Continue**.
   - Scroll to the bottom of the page and press **Continue for free**.
@@ -35,7 +35,7 @@ If you and your group have any questions or get stuck as you work through this i
 <img src="images/github-upload-file.gif" alt="GitHub Upload File animated gif">
   - Click on the **upload an existing file** link.
 <img src="images/github-upload-link.png" alt="GitHub Upload Link" width="400">
-  - Click on the c**hoose your file**s link.
+  - Click on the **choose your files** link.
   - Find your **index.html** or **index** file your local hard drive, and then **select** the file, and the press the **Open** button.
   - After the file finishes uploading, scroll to the bottom of the page, and click on the green **Commit changes** button.
   - Congratulations, you’ve uploaded your first file to your new GitHub repository!
@@ -71,4 +71,6 @@ If you and your group have any questions or get stuck as you work through this i
   - Your new web address will be displayed on your page in the blue box (eg: https://richardmccue.github.io/website). It will take a few minutes before GitHub has     - created your website, so if you click on it an you get an error message wait at least 1 minute before trying again.
  
 7. Great job on creating your first GitHub Pages website!
+
+[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
 

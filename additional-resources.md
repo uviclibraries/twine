@@ -6,7 +6,8 @@ nav_order: 10
 # Additional Resources & Acknowledgements
 
 ## Twine Resources
-Coming soon!
+- [Twine Reference Guide] (https://twinery.org/reference/en/), official Twine reference guide for the user interface
+- [Twine Cookbook] (https://twinery.org/cookbook/), Twine tips and examples
 
 ## Acknowledgements
 

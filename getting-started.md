@@ -11,7 +11,7 @@ If you and your group have any questions or get stuck as you work through this i
 **DO NOT use the SAFARI web browser on Macs!** 
 Please use Firefox or Chrome web browsers instead of Safari.
 <img src="images/twine-intro-02.png" style="float:right;width:180px;height:60px;" alt="+Story button">
-1. Create a new story by navigating to [the Twine website](http://twinery.org/2/){:target="_blank"} and clicking on the green “+ Story” button on the right-hand navigation bar. Give your story a name something like, “In The Beginning” (which you can change later if you want to).
+1. Create a new story by navigating to [the Twine website](http://twinery.org/2/){:target="_blank"} and clicking on the “+New” button on the top navigation bar. Give your story a name something like, “In The Beginning” (which you can change later if you want to).
 <img src="images/twine-intro-03.png" style="float:right;width:140px;height:140px;" alt="Unintitled Passage box"> 
 2. Open your word processing document where you have your story laid, or if you don’t have your own story you can [click here to use our Forest Adventure sample story](https://docs.google.com/document/d/12BeIFnMyKHyS0uQZbJxLBrIZ8lpEsUZ6vkjrj4gaLWE/edit?usp=sharing){:target="_blank"} which also contains a link to a live version of the story so you can test out an example of a Twine story. 
 3. Double click on the “Untitled Passage” box on the screen and start importing your story into Twine by copying and pasting the first passage of text into the text box. Also title the passage, as this is key to linking different passages together. 
@@ -31,7 +31,7 @@ Please use Firefox or Chrome web browsers instead of Safari.
     - How can you fix it?
     - What happens when you change the title of one of your passages below your starting passage? This is how you change a link: by changing the title of the passage below it.
     - <img src="images/twine-intro-07b.gif" alt="Renaming links">
-9. <img src="images/twine-intro-08.png" style="float:right;width:200px" alt="Edit Storysheet button"> Change the background colour, font type and font colour of your story by clicking on the title of your story on the bottom left of the screen (in my case, “MakerSpace Zombie Apocalypse”) and then click on “Edit Story Stylesheet.” Now type in the following code: 
+9. <img src="images/twine-intro-08.png" style="float:right;width:200px" alt="Edit Storysheet button"> Change the background colour, font type and font colour of your story by clicking on the Story tab and then clicking on Stylesheet.  Now type in the following code: 
 ```
 tw-passage {
 	font-family: arial;
@@ -47,15 +47,16 @@ tw-link {
 	font-weight: normal;
 }
 ```
-10. <img src="images//twine-intro-09.png" style="float:right;height:250px" alt="Publish to file button"> It’s important to remember to save your story fairly frequently as the story is being stored on your local hard drive. To do this, **click on the title of your story on the bottom left of the screen** (in my case, “MakerSpace Zombie Apocalypse”) and then **click on “Publish to File”**.  This will save the story to your local hard drive, and then you can email it to yourself or save it to a thumb drive for safekeeping.
-11. To make your story and personal images publicly available on the internet, please follow the directions on our [Publish Your Twine Story on the Web Using GitNub Pages](github.html) activity.
-    - Note: If you are using your own images, they must be available somewhere on the web, or also uploaded to your webspace with the correct. The best practice is to upload them to your personal webspace as you develop your story so that you can make sure they work correctly as you go.<br>
+10. <img src="images//twine-intro-09.png" style="float:right;height:250px" alt="Publish to file button"> It’s important to remember to save your story fairly frequently as the story is being stored on your local hard drive. To do this, **click on the Build tab** and then **click on “Publish to File”**.  This will save the story to your local hard drive, and then you can email it to yourself or save it to a thumb drive for safekeeping.
+
+11. To make your story and personal images publicly available on the internet, please follow the directions on our [Publish Your Twine Story on the Web Using GitHub Pages](github.html) activity.
+    - Note: If you are using your own images, they must be available somewhere on the web, or also uploaded to your webspace with the correct filepath. The best practice is to upload them to your personal webspace as you develop your story so that you can make sure they work correctly as you go.<br>
 
 12. **Extra Credit Activities (if you have time)**:<br> Put URL links to other webpages or web resources into your story. E.g. ```<a href="http://google.com">Link text here.</a>```
 
 13.  Put URL links to other webpages or web resources into your story using an image as the link “button.” E.g. ```<a href="http://uvic.ca"><img src="https://jillianmccue.ca/wp-content/uploads/2016/04/goat.jpg"></a>```
 
-14.  To make your “display test” different that the name of the passage you want to link you, use this format for your link: ```[[Display Text|Text of passage title]]```  **Note: Make sure there are no extra spaces, and the case is identical for the passage title. **
+14.  To make your “display text” different from the name of the passage you want to link to, use this format for your link: ```[[Display Text|Text of passage title]]```  **Note: Make sure there are no extra spaces, and the case is identical for the passage title. **
 
 15.  Embed a YouTube video into one of your passages. **Note in the code below how you need to modify the YouTube URL for this work by deleting the “watch?v=” from the URL and replacing it with “embed/” :**
 ```<iframe width="560" height="315" src="https://www.youtube.com/embed/JRY8TjB9d4U" frameborder="0" allowfullscreen></iframe>```

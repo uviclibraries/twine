@@ -13,16 +13,16 @@ Note: To avoid compatibility issues, on Macs please use Firefox or Chrome web br
 3. Double click on the “Untitled Passage” box on the screen and start importing your interview into Twine by copying and pasting the introductory text into the text box. Also title the passage, as this is key to linking different passages together. 
 <img src="images//twine-interview-04.png" style="float:right;width:180px" alt="Boxes with text is linking"> 
 4. To create other passages, simply surround the text in the document with double square brackets, and this automatically creates another passage. E.g.: ```“1. [[$3200 or less]]” Give this a try now if you haven’t already. You will see the auto-generated passage similar to the image to the right when you close the current passage.```<br>
-<img src="images/twine-interview-05b.gif" alt="Creating Passages">
+<img src="images/twine-interview-05c.gif" alt="Creating Passages">
 5. Go ahead and create all the other passages for your interview, by copy and pasting the text into passages as you just did above. 
 6. Next please insert an image into one of your passages by typing or pasting the following HTML into the passage. If you would like to use your own image, paste the URL of your image in place of the URL below the quotation marks: ```<img src="https://dell.to/2J0Nn2e">```
-<img src="images/twine-interview-06b.gif" alt="Inserting an Image">
+<img src="images/twine-interview-06c.gif" alt="Inserting an Image">
 7. Experiment with different text types formatting in a passage. 
   - Bold: This is done by putting two stars on either side of the text: ```**Bold text**```
   - Underline: Put the HTML tags for underline on either side of the text: ```<u>underline</u>```
   - Italicize: Put one star on either side of the text: ```*italicize text*```
-<img src="images/twine-interview-07b.gif" alt="Text formats">
-8. <img src="images//twine-interview-08.png" style="float:right;width:200px" alt="Edit Storysheet button"> Change the background colour, font type and font colour of your story by clicking on the "Story" tab and then clicking on “Stylesheet”. Now type in the following code: 
+<img src="images/twine-intro-06c.gif" alt="Text formats">
+8. <img src="images//twine-intro-08b.png" style="float:right;height:100px" alt="Edit Stylesheet button"> Change the background colour, font type and font colour of your story by clicking on the "Story" tab and then clicking on “Stylesheet”. Now type in the following code: 
 ```
 tw-passage {
 	font-family: arial;

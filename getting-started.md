@@ -30,8 +30,8 @@ Please use Firefox or Chrome web browsers instead of Safari.
 8. Rename one of the links (inside the double square brackets) in your first passage and see what happens.  
     - How can you fix it?
     - What happens when you change the title of one of your passages below your starting passage? This is how you change a link: by changing the title of the passage below it.
-    - <img src="images/twine-intro-07b.gif" alt="Renaming links">
-9. <img src="images/twine-intro-08.png" style="float:right;width:200px" alt="Edit Storysheet button"> Change the background colour, font type and font colour of your story by clicking on the Story tab and then clicking on Stylesheet.  Now type in the following code: 
+    - <img src="images/twine-intro-07c.gif" alt="Renaming links">
+9. <img src="images/twine-intro-08b.png" style="float:right;height:200px" alt="Edit Storysheet button"> Change the background colour, font type and font colour of your story by clicking on the Story tab and then clicking on Stylesheet.  Now type in the following code: 
 ```
 tw-passage {
 	font-family: arial;
@@ -47,7 +47,7 @@ tw-link {
 	font-weight: normal;
 }
 ```
-10. <img src="images//twine-intro-09.png" style="float:right;height:250px" alt="Publish to file button"> It’s important to remember to save your story fairly frequently as the story is being stored on your local hard drive. To do this, **click on the Build tab** and then **click on “Publish to File”**.  This will save the story to your local hard drive, and then you can email it to yourself or save it to a thumb drive for safekeeping.
+10. <img src="images//twine-intro-09b.png" style="float:right;height:200px" alt="Publish to file button"> It’s important to remember to save your story fairly frequently as the story is being stored on your local hard drive. To do this, **click on the Build tab** and then **click on “Publish to File”**.  This will save the story to your local hard drive, and then you can email it to yourself or save it to a thumb drive for safekeeping.
 
 11. To make your story and personal images publicly available on the internet, please follow the directions on our [Publish Your Twine Story on the Web Using GitHub Pages](github.html) activity.
     - Note: If you are using your own images, they must be available somewhere on the web, or also uploaded to your webspace with the correct filepath. The best practice is to upload them to your personal webspace as you develop your story so that you can make sure they work correctly as you go.<br>

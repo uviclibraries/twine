@@ -8,7 +8,7 @@ parent: Workshop Activities
 # Guided Interviews with Twine
 If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 Note: To avoid compatibility issues, on Macs please use Firefox or Chrome web browsers instead of Safari.
-1. Create a new guided interview guide by navigating to [the Twine website](http://twinery.org/2/){:target="_blank"} <img src="images/twine-interview-02.png" style="float:right;width:180px;height:60px;" alt="+Story button">  and clicking on the “+ New” button on the top navigation bar. Give your guided interview a name something like, “Laptop Buyers Guide” which you can change later if you want.
+1. Create a new guided interview guide by navigating to [the Twine website](http://twinery.org/2/){:target="_blank"} <img src="images/twine-intro-02.png" style="float:right;width:130px;height:60px;" alt="+New button">  and clicking on the “+ New” button on the top navigation bar. Give your guided interview a name something like, “Laptop Buyers Guide” which you can change later if you want.
 2. You can create any guided interview you want,<img src="images//twine-interview-03.png" style="float:right;width:120px;height:120px;" alt="Unintitled Passage box">  but if you don’t have anything in mind, please feel free to use our sample [“Laptop Buyers Guide” interview](http://bit.ly/2KWhugt){:target="_blank"}
 3. Double click on the “Untitled Passage” box on the screen and start importing your interview into Twine by copying and pasting the introductory text into the text box. Also title the passage, as this is key to linking different passages together. 
 <img src="images//twine-interview-04.png" style="float:right;width:180px" alt="Boxes with text is linking"> 

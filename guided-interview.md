@@ -3,6 +3,7 @@ layout: default
 title: 2-Guided Interviews
 nav_order: 4
 parent: Workshop Activities
+customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 <img src="images/twine-interview-01.png" style="float:right;width:180px;height:180px;" alt="twine text bubbles"> 
 # Guided Interviews with Twine
@@ -13,15 +14,32 @@ Note: To avoid compatibility issues, on Macs please use Firefox or Chrome web br
 3. Double click on the “Untitled Passage” box on the screen and start importing your interview into Twine by copying and pasting the introductory text into the text box. Also title the passage, as this is key to linking different passages together. 
 <img src="images//twine-interview-04.png" style="float:right;width:180px" alt="Boxes with text is linking"> 
 4. To create other passages, simply surround the text in the document with double square brackets, and this automatically creates another passage. E.g.: ```“1. [[$3200 or less]]” Give this a try now if you haven’t already. You will see the auto-generated passage similar to the image to the right when you close the current passage.```<br>
-<img src="images/twine-interview-05c.gif" alt="Creating Passages">
+
+ <button onclick="toggle('gif1')">Show / Hide Animation </button>
+  <div id="gif1">
+      <img src="images/twine-interview-05c.gif" alt="Creating Passages">
+      </div>
+
+
 5. Go ahead and create all the other passages for your interview, by copy and pasting the text into passages as you just did above. 
 6. Next please insert an image into one of your passages by typing or pasting the following HTML into the passage. If you would like to use your own image, paste the URL of your image in place of the URL below the quotation marks: ```<img src="https://dell.to/2J0Nn2e">```
-<img src="images/twine-interview-06c.gif" alt="Inserting an Image">
+
+ <button onclick="toggle('gif2')">Show / Hide Animation </button>
+  <div id="gif2">
+      <img src="images/twine-interview-06c.gif" alt="Inserting an Image">
+      </div>
+
 7. Experiment with different text types formatting in a passage. 
   - Bold: This is done by putting two stars on either side of the text: ```**Bold text**```
   - Underline: Put the HTML tags for underline on either side of the text: ```<u>underline</u>```
   - Italicize: Put one star on either side of the text: ```*italicize text*```
-<img src="images/twine-intro-06c.gif" alt="Text formats">
+
+  <button onclick="toggle('gif3')">Show / Hide Animation </button>
+  <div id="gif3">
+      <img src="images/twine-intro-06c.gif" alt="Text formats">
+      </div>
+
+
 8. <img src="images//twine-intro-08b.png" style="float:right;height:100px" alt="Edit Stylesheet button"> Change the background colour, font type and font colour of your story by clicking on the "Story" tab and then clicking on “Stylesheet”. Now type in the following code: 
 ```
 tw-passage {
@@ -50,4 +68,17 @@ tw-link {
 ```<iframe width="560" height="315" src="https://www.youtube.com/embed/_JF0Jys5ITc" frameborder="0" allowfullscreen></iframe>```
 14. Here is a more fully developed [example of a Laptop Buyers Guide](http://bit.ly/2Iv0kkz){:target="_blank"} 
 ![Representation of the storyboard](images//twine-interview-09.png)
+
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
+
 [NEXT STEP: Using Variables](variables.html){: .btn .btn-blue }

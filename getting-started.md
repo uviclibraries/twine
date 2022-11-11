@@ -3,6 +3,7 @@ layout: default
 title: 1-Getting Started
 nav_order: 3
 parent: Workshop Activities
+customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 <img src="images/twine-intro-01.png" style="float:right;width:180px;height:180px;" alt="twine logo"> 
 # Interactive, Nonlinear Stories with Twine: Getting Started
@@ -21,17 +22,39 @@ Please use Firefox or Chrome web browsers instead of Safari.
 ```
 <img src="https://bit.ly/32DnMcw" width="500">
 ```
-<img src="images/twine-intro-05c.gif" alt="Insert image animated gif">
+
+<button onclick="toggle('gif1')">Show / Hide Animation </button>
+  <div id="gif1">
+      <img src="images/twine-intro-05c.gif" alt="Insert image animated gif">
+      </div> 
+
+
 7. Experiment with different text types of formatting in a passage. 
     - Bold: This is done by putting two stars on either side of the text: ```**Bold text**```
     - Underline: Put the HTML tags for underline on either side of the text: ```<u>underline</u>```
     - Italicize: Put one star on either side of the text: ```*italicize text*```
-<img src="images/twine-intro-06c.gif" alt="Text formats animated gif">
+
+    <button onclick="toggle('gif2')">Show / Hide Animation </button>
+  <div id="gif2">
+      <img src="images/twine-intro-06c.gif" alt="Text formats animated gif">
+      </div> 
+
+
 8. Rename one of the links (inside the double square brackets) in your first passage and see what happens.  
     - How can you fix it?
     - What happens when you change the title of one of your passages below your starting passage? This is how you change a link: by changing the title of the passage below it.
-    - <img src="images/twine-intro-07c.gif" alt="Renaming links">
-9. <img src="images/twine-intro-08b.png" style="float:right;height:100px" alt="Edit Storysheet button"> Change the background colour, font type and font colour of your story by clicking on the Story tab and then clicking on Stylesheet.  Now type in the following code: 
+
+    <button onclick="toggle('gif3')">Show / Hide Animation </button>
+  <div id="gif3">
+      <img src="images/twine-intro-07c.gif" alt="Renaming links">
+      </div> 
+
+
+9. Change the background colour, font type and font colour of your story by clicking on the Story tab and then clicking on Stylesheet.  
+<img src="images/twine-intro-08b.png" style="float:right;height:100px" alt="Edit Storysheet button">
+
+Now type in the following code: 
+
 ```
 tw-passage {
 	font-family: arial;
@@ -47,6 +70,7 @@ tw-link {
 	font-weight: normal;
 }
 ```
+
 10. <img src="images//twine-intro-09b.png" style="float:right;height:100px" alt="Publish to file button"> It’s important to remember to save your story fairly frequently as the story is being stored on your local hard drive. To do this, **click on the Build tab** and then **click on “Publish to File”**.  This will save the story to your local hard drive, and then you can email it to yourself or save it to a thumb drive for safekeeping.
 
 11. To make your story and personal images publicly available on the internet, please follow the directions on our [Publish Your Twine Story on the Web Using GitHub Pages](github.html) activity.
@@ -80,5 +104,17 @@ Here is a video that walks you through the process of embeding a video into a Tw
     - [Vimeo](https://vimeo.com){:target="_blank"}
 - Audio
   - [Internet Archive](https://archive.org/details/audio){:target="_blank"}
+
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
 
 [NEXT STEP: Guided Interview](guided-interview.html){: .btn .btn-blue }

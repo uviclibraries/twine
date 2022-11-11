@@ -3,6 +3,7 @@ layout: default
 title: 3-Using Variables
 nav_order: 5
 parent: Workshop Activities
+customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 # Using Variables to keep track of selections without branching
 <img src="images//twine-variables-01.png" style="float:right;width:250px" alt=image of coding for links>
@@ -22,10 +23,22 @@ If you have any questions or get stuck as you work through this in-class exercis
 <img src="images/twine-variables-05b.gif" alt="Links">
 6. To add a gift option, you could copy/paste the command in Step 4 and change the link and variable like this:
 - ```(link: “bravery")[\(set: $gift to "bravery")\(go-to: "Step1")\]```
-<img src="images/twine-variables-06b.gif" alt="Changing links">
+
+<button onclick="toggle('gif1')">Show / Hide Animation </button>
+  <div id="gif1">
+      <img src="images/twine-variables-06b.gif" alt="Changing links">
+      </div>
+
+
 7. To check the **$gift** variable in a later passage and then present different options based on the value of the **$gift**, you can use the following code:
 ```The monster charged forward and then (if: $gift is "knowledge") [unfortunately your (print: $gift) was not able to help you and you die.] (else:) [your gift of (print: $gift) saved you from the dragon!]```
-<img src="images/twine-variables-07b.gif" alt="Gift Variable">
+
+<button onclick="toggle('gif2')">Show / Hide Animation </button>
+  <div id="gif2">
+      <img src="images/twine-variables-07b.gif" alt="Gift Variable">
+      </div>
+
+
 8. Go ahead and create all the other passages for your story, by either writing it yourself or copy and pasting the text into passages as you just did above for the sample story.
 9. Try to upload your story to your personal UVic webspace. For directions on how to do this [look here](http://bit.ly/2QlRZo0){:target="_blank"} 
 
@@ -66,5 +79,17 @@ You have |amount>[$counter] seconds left!
 14. What if we want to randomly pick a gift instead? We could replace the first sentence in “Step1” with this from variable-demo.txt:
 ```(if: $counter is 0)[(set: $gift to (either: "kindness", "knowledge", "immortality"))Teagan randomly chose <b>(print: $gift)</b>.]\```
 - ```(either:…) tells Twine to randomly pick from a list of options.```
+
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
 
 [NEXT STEP: Publish with GitHub Pages](github.html){: .btn .btn-blue }

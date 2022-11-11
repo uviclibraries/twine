@@ -3,13 +3,20 @@ layout: default
 title: 4-Publish with GitHub Pages
 nav_order: 6
 parent: Workshop Activities
+customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 # Publish Your Twine Story or HTML Files on the Web Using GitHub Pages
 If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
 1. Signup for a GitHub Account (if you’d like you can watch this narrated video on YouTube of the [GitHub account creation process](https://youtu.be/ovCRBERA1NQ){:target="_blank"}):
   - Go to the [GitHub.com](https://github.com){:target="_blank"} website and click on the **Sign up** button on the top right of the web page.
-<img src="images/github-account-setup.gif" alt="GitHub Account Setup animated gif">
+
+  <button onclick="toggle('gif1')">Show / Hide Animation </button>
+  <div id="gif1">
+      <img src="images/github-account-setup.gif" alt="GitHub Account Setup animated gif">
+      </div>
+
+
   - Enter your email address in the field provided. Press **Continue**.
   - Create a password for your GitHub account. Press **Continue**.
   - Enter a username to be associated with your email address. Press **Continue**. 
@@ -24,7 +31,13 @@ If you and your group have any questions or get stuck as you work through this i
 
 2. Create a repository for your web pages (if you’d like you can watch this narrated video of how to [create a repository in your GitHub account](https://youtu.be/HhfPWwz8lVA){:target="_blank"}:
   - Click on the green **Create repository** button on the left side of the screen.
-<img src="images/github-create-repository.gif" alt="GitHub Create Repository animated gif">
+
+  <button onclick="toggle('gif2')">Show / Hide Animation </button>
+  <div id="gif2">
+      <img src="images/github-create-repository.gif" alt="GitHub Create Repository animated gif">
+      </div>
+
+
   - Type the name you want to give your repository in the **Repository name** field. You can choose your own name, but if you can’t think of something, go ahead and type in “website”.
   - If you’d like your GitHub website to be publicly viewable leave the default setting, or change to Private if you’d prefer (you can change this in the future of course).
   - Click on the **Create repository** button.
@@ -33,7 +46,13 @@ If you and your group have any questions or get stuck as you work through this i
 3. Upload your first Twine story or other files (if you’d like you can watch this narrated video of how to [upload your Twine story to GitHub](https://youtu.be/0FHgslaQnF4){:target="_blank"}: 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/0FHgslaQnF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   - Rename your Twine file name to **index.html** or if you don’t see the “.html” file extension, just rename it, **index**.
-<img src="images/github-upload-file.gif" alt="GitHub Upload File animated gif">
+
+  <button onclick="toggle('gif3')">Show / Hide Animation </button>
+  <div id="gif3">
+      <img src="images/github-upload-file.gif" alt="GitHub Upload File animated gif">
+      </div>
+
+
   - Click on the **upload an existing file** link.
 <img src="images/github-upload-link.png" alt="GitHub Upload Link" width="400">
   - Click on the **choose your files** link.
@@ -43,7 +62,13 @@ If you and your group have any questions or get stuck as you work through this i
 
 4. Create an Images Directory to store photos in for your web page or twine story. This is necessary for personal photos that aren’t already publicly available on the web (if you’d like you can watch this narrated video of [how to create an image directory](https://youtu.be/FvCsnUgAdWA){:target="_blank"}:
   - Click on the **Add file** drop down menu.
-<img src="images/github-images-folder.gif" alt="GitHub Images Folder animated gif">
+
+  <button onclick="toggle('gif4')">Show / Hide Animation </button>
+  <div id="gif4">
+      <img src="images/github-images-folder.gif" alt="GitHub Images Folder animated gif">
+      </div>
+
+
   - Then select **Create new file**.<br>
 <img src="images/github-create-new.png" alt="GitHub Create New File" width="400">
   - In the field that has **Name your file…** in grey text inside it, type: **images/test.txt** and then press the **Enter** key.<br>
@@ -54,7 +79,13 @@ If you and your group have any questions or get stuck as you work through this i
 
 5. Upload an image to your images folder in your GitHub repository (if you’d like you can watch this narrated video of how to [upload an image to your new image directory](https://youtu.be/ATVm6ACERu8){:target="_blank"}:
   - Note: **It is much easier for you as you create a GitHub website if you modify the file names for your images to make them short, descriptive, without spaces, and all lower case** (eg: “inner-harbour.jpg” instead of “Victoria Inner Harbour in the afternoon.jpg”).
-<img src="images/github-upload-images.gif" alt="GitHub Create Image Directory animated gif">  
+
+  <button onclick="toggle('gif5')">Show / Hide Animation </button>
+  <div id="gif5">
+      <img src="images/github-upload-images.gif" alt="GitHub Create Image Directory animated gif"> 
+      </div>
+
+ 
   - You should be in your images folder, but if you aren’t click on the **images** directory folder.<br>
 <img src="images/github-image-upload.png" alt="GitHub Images Folder Link" width="400">
   - Click on the **Add file** drop down menu.
@@ -66,12 +97,30 @@ If you and your group have any questions or get stuck as you work through this i
 
 6. Enable GitHub Pages to make your website public (if you’d like you can watch this narrated video of [how to enable GitHub Pages](https://youtu.be/DqjPr7auwdY){:target="_blank"}:
   - Click on the **Settings** button on the top right of the webpage.
-<img src="images/github-enable-pages.gif" alt="GitHub Enable Pages animated gif">
+
+  <button onclick="toggle('gif6')">Show / Hide Animation </button>
+  <div id="gif6">
+      <img src="images/github-enable-pages.gif" alt="GitHub Enable Pages animated gif">
+      </div>
+
+
   - On navigation menu on the left side of the screen, scroll down to the **Pages** button near the bottom of the menu and **click** on it.
   - Near the top of the webpage under the “Source” header, select the **None** drop down menu, then select **main**, and then click on the **Save** button.
   - Your new web address will be displayed on your page in the blue box (eg: https://richardmccue.github.io/website). It will take a few minutes before GitHub has     - created your website, so if you click on it an you get an error message wait at least 1 minute before trying again.
  
 7. Great job on creating your first GitHub Pages website!
+
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
 
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
 

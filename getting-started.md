@@ -51,9 +51,9 @@ Please use Firefox or Chrome web browsers instead of Safari.
 
 
 9. Change the background colour, font type and font colour of your story by clicking on the Story tab and then clicking on Stylesheet.  
-<img src="images/twine-intro-08b.png" style="float:right;height:100px" alt="Edit Storysheet button">
+<img src="images/twine-intro-08b.png" style="float:right;height:100px" alt="Edit Storysheet button"><br>
 
-Now type in the following code: 
+Now type in the following code:<br> 
 
 ```
 tw-passage {

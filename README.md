@@ -1,4 +1,4 @@
-# Interactive, Nonlinear Stories & Guided Interviews with Twine
+# Intro to Choose Your Own Adventure Stories, Games & Guided Interviews with Twine
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop: https://uviclibraries.github.io/twine/

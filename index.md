@@ -5,7 +5,7 @@ nav_order: 1
 ---
 <img src="images//twine-logo.png" style="float:right;width:180px;height:180px;"> 
 
-# Interactive, Nonlinear Stories and Guided Interviews with Twine
+# Choose Your Own Adventure Stories, Games & Guided Interviews with Twine
 
 - Pre-workshop activities: 25 min 
 - Introductory presentation: 10 min

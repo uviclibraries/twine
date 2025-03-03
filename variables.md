@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 3-Using Variables
+title: 3-Inventory for RPG's
 nav_order: 5
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
-# Using Variables to keep track of selections without branching
+# Create an Inventory for your RPG
 <img src="images//twine-variables-01.png" style="float:right;width:250px" alt=image of coding for links>
 If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance. If you’d like to see an excellent example of a story that uses variables, please check out this [Poetry Escape story](https://web.uvic.ca/~rmccue/escape-room.html){:target="_blank"} , written by Karlie Castle, a UVic Education student. If you’d like to see how the story was made, ask your instructor how you can download a local copy of the story and look at it in Twine’s editor view. Have fun!  **Note**: To avoid compatibility issues, on Macs please use Firefox or Chrome web browsers instead of Safari.
 

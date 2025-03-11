@@ -21,15 +21,15 @@ Twine can also create game based experiences which gives readers options and cho
 Participants will be able to do the following by the end of this workshop:
 
 1. Navigate around the Twine app, including, Archive and Import stories.
-3. Be able to create a new story.
-4. Be able to create new [[passages]] to a story.
-5. Know basic markup tags and **how to use them**.
-6. Know how to modify background formatting with CSS.
-7. Be able to add images from other web servers.
+3. Create a new story.
+4. Create new [[passages]] in a story.
+5. Use basic markup tags.
+6. Modify background formatting with CSS.
+7. Ad images from other web servers.
 8. Know where to find other projects and tutorials for learning how to use Twine.
-9. Be able to add a random event in the text.
-10. Be able to add links to YouTube videos. 
-11. Know where to find directions so they can upload their Twine story to their UVic webspace or Github.com.
-12. Be able to use variables to track reader selections throughout a story (or interview).
+9. Add a random event in the text.
+10. Add links to YouTube videos. 
+11. Know where to find directions so they can upload their Twine story to a publically available website like Github.com.
+12. Use variables to track reader selections throughout a story (or interview).
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }

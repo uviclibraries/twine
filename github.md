@@ -33,61 +33,39 @@ If you and your group have any questions or get stuck as you work through this i
   <iframe width="560" height="315" src="https://www.youtube.com/embed/0FHgslaQnF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   - Rename your Twine file name to **index.html** or if you don’t see the “.html” file extension, just rename it, **index**.<br>
   <img src="images/github-upload-file.gif" alt="GitHub Upload File animated gif"><br>
-  - Click on the **upload an existing file** link.
-<img src="images/github-upload-link.png" alt="GitHub Upload Link" width="400">
+  - Click on the **upload an existing file** link.<br>
+<img src="images/github-upload-link.png" alt="GitHub Upload Link" width="400"><br>
   - Click on the **choose your files** link.
   - Find your **index.html** or **index** file your local hard drive, and then **select** the file, and the press the **Open** button.
   - After the file finishes uploading, scroll to the bottom of the page, and click on the green **Commit changes** button.
   - Congratulations, you’ve uploaded your first file to your new GitHub repository!
 4. Create an Images Directory to store photos in for your web page or twine story. This is necessary for personal photos that aren’t already publicly available on the web (if you’d like you can watch this narrated video of [how to create an image directory](https://youtu.be/FvCsnUgAdWA){:target="_blank"}:
-  - Click on the **Add file** drop down menu.
-  <button onclick="toggle('gif4')">Show / Hide Animation </button>
-  <div id="gif4">
-      <img src="images/github-images-folder.gif" alt="GitHub Images Folder animated gif">
-      </div>
+  - Click on the **Add file** drop down menu.<br>
+  <img src="images/github-images-folder.gif" alt="GitHub Images Folder animated gif"><br>
   - Then select **Create new file**.<br>
-<img src="images/github-create-new.png" alt="GitHub Create New File" width="400">
+<img src="images/github-create-new.png" alt="GitHub Create New File" width="400"><br>
   - In the field that has **Name your file…** in grey text inside it, type: **images/test.txt** and then press the **Enter** key.<br>
 <img src="images/github-image-folder-1.png" alt="GitHub Image Folder 1" width="250"><br>
-<img src="images/github-image-folder-2.png" alt="GitHub Image Folder 2" width="250">
+<img src="images/github-image-folder-2.png" alt="GitHub Image Folder 2" width="250"><br>
   - Scroll to the bottom of the page and press the green **Commit new file** button.
   - Congratulations, you’ve created an images folder for your new GitHub repository!
 5. Upload an image to your images folder in your GitHub repository (if you’d like you can watch this narrated video of how to [upload an image to your new image directory](https://youtu.be/ATVm6ACERu8){:target="_blank"}:
-  - Note: **It is much easier for you as you create a GitHub website if you modify the file names for your images to make them short, descriptive, without spaces, and all lower case** (eg: “inner-harbour.jpg” instead of “Victoria Inner Harbour in the afternoon.jpg”).
-
-  <button onclick="toggle('gif5')">Show / Hide Animation </button>
-  <div id="gif5">
-      <img src="images/github-upload-images.gif" alt="GitHub Create Image Directory animated gif"> 
-      </div>
+  - Note: **It is much easier for you as you create a GitHub website if you modify the file names for your images to make them short, descriptive, without spaces, and all lower case** (eg: “inner-harbour.jpg” instead of “Victoria Inner Harbour in the afternoon.jpg”).<br>
+<img src="images/github-upload-images.gif" alt="GitHub Create Image Directory animated gif"><br>
   - You should be in your images folder, but if you aren’t click on the **images** directory folder.<br>
-<img src="images/github-image-upload.png" alt="GitHub Images Folder Link" width="400">
+<img src="images/github-image-upload.png" alt="GitHub Images Folder Link" width="400"><br>
   - Click on the **Add file** drop down menu.
   - Then select **Upload files**.
   - On the next webpage click on the blue **choose your files** link in the middle of the page and select an image file, or drag and drop your images into the middle of the page (remember that **your life will be easier if you rename your files before you upload them so that they are short, and don’t have any spaces in the file name** - eg: black-dog.jpg)
   - Scroll to the bottom of the page and press the green **Commit new file** button.
   - Repeat this process for each image file, or select multiple image files to upload them at the same time.
 6. Enable GitHub Pages to make your website public (if you’d like you can watch this narrated video of [how to enable GitHub Pages](https://youtu.be/DqjPr7auwdY){:target="_blank"}:
-  - Click on the **Settings** button on the top right of the webpage.
-  <button onclick="toggle('gif6')">Show / Hide Animation </button>
-  <div id="gif6">
-      <img src="images/github-enable-pages.gif" alt="GitHub Enable Pages animated gif">
-      </div>
+  - Click on the **Settings** button on the top right of the webpage.<br>
+      <img src="images/github-enable-pages.gif" alt="GitHub Enable Pages animated gif"><br>
   - On navigation menu on the left side of the screen, scroll down to the **Pages** button near the bottom of the menu and **click** on it.
   - Near the top of the webpage under the “Source” header, select the **None** drop down menu, then select **main**, and then click on the **Save** button.
   - Your new web address will be displayed on your page in the blue box (eg: https://richardmccue.github.io/website). It will take a few minutes before GitHub has     - created your website, so if you click on it an you get an error message wait at least 1 minute before trying again.
 7. Great job on creating your first GitHub Pages website!
-
-<script>  
-
-    function toggle(input) {
-        var x = document.getElementById(input);
-        if (x.style.display === "none") {
-            x.style.display = "block";
-        } else {
-            x.style.display = "none";
-        }
-    }
-</script>
 
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
 

@@ -10,9 +10,9 @@ If you and your group have any questions or get stuck as you work through this i
 
 1. Signup for a GitHub Account (if you’d like you can watch this narrated video on YouTube of the [GitHub account creation process](https://youtu.be/ovCRBERA1NQ){:target="_blank"}):
   - Go to the [GitHub.com](https://github.com){:target="_blank"} website and click on the **Sign up** button on the top right of the web page.<br>
-  <button onclick="toggle('gif1')">Show / Hide Animation </button>
+ <!--- <button onclick="toggle('gif1')">Show / Hide Animation </button>
   <div id="gif1"><img src="images/github-account-setup.gif" alt="GitHub Account Setup animated gif">
-  </div><br>
+  </div><br> -->
   - Enter your email address in the field provided. Press **Continue**.
   - Create a password for your GitHub account. Press **Continue**.
   - Enter a username to be associated with your email address. Press **Continue**. 
@@ -26,7 +26,7 @@ If you and your group have any questions or get stuck as you work through this i
   - Congratulations, your account is setup!
 2. Create a repository for your web pages (if you’d like you can watch this narrated video of how to [create a repository in your GitHub account](https://youtu.be/HhfPWwz8lVA){:target="_blank"}:
   - Click on the green **Create repository** button on the left side of the screen.<br>
-  <button onclick="toggle('gif2')">Show / Hide Animation </button> <div id="gif2"><img src="images/github-create-repository.gif" alt="GitHub Create Repository animated gif"></div> <br>
+<!---  <button onclick="toggle('gif2')">Show / Hide Animation </button> <div id="gif2"><img src="images/github-create-repository.gif" alt="GitHub Create Repository animated gif"></div> <br> -->
   - Type the name you want to give your repository in the **Repository name** field. You can choose your own name, but if you can’t think of something, go ahead and type in “website”.
   - If you’d like your GitHub website to be publicly viewable leave the default setting, or change to Private if you’d prefer (you can change this in the future of course).
   - Click on the **Create repository** button.

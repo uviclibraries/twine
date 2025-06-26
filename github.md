@@ -30,7 +30,7 @@ If you and your group have any questions or get stuck as you work through this i
   - Click on the **Create repository** button.
   - Congratulations, you’ve created a repository to put your web pages in!
 3. Upload your first Twine story or other files (if you’d like you can watch this narrated video of how to [upload your Twine story to GitHub](https://youtu.be/0FHgslaQnF4){:target="_blank"}: 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/0FHgslaQnF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/0FHgslaQnF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
   - Rename your Twine file name to **index.html** or if you don’t see the “.html” file extension, just rename it, **index**.<br>
   <img src="images/github-upload-file.gif" alt="GitHub Upload File animated gif"><br>
   - Click on the **upload an existing file** link.<br>

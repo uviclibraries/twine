@@ -1,0 +1,80 @@
+﻿Teagan’s Story text
+
+
+Important Note: If you copy and paste any of these passages into Twine, you need to make sure to paste without formatting or Twine will not work properly. On a Mac to paste without formatting, press <Command> + <Shift> + <v>. On a windows computer, press <Ctrl> + <Shift> + <v>.
+
+
+----
+The Beginning
+
+
+Teagan had gone to bed late because she was excitedly getting ready for her first day of high school. Even so it took her a long time to sleep because of her nervous anticipation of what awaited her. A new school, with new teachers, new classes, and especially new friends. Eventually she drifted into a fitful sleep.  At some point in the night she became dimly aware of a point of light in her room. The light seemed to grow brighter and slowly undulate. It seemed like a life like dream, but Teagan sat bolt upright in bed when a soft but strong voice call her by name. “Teagan, what gift do you desire?”  In stunned silence she thought, “What gift do I desire? This must be a dream.” Teagan thought for a minute, and then replied, “I don’t know, what are some options?”  “Three choices I will give you,” she said kindly. “First you may choose the gift of (link: "kindness")[\(set: $gift to "kindness")\(go-to: "Step1")\]. Second I offer the gift of (link: "knowledge")[\(set: $gift to "knowledge")\(go-to: "Step1")\]. Lastly you may choose the gift of (link: "immortality")[\(set: $gift to "immortality")\(go-to: "Step1")\]. It is up to you to choose.” 
+
+
+<img src = "https://65iq11g0qd93sns422fl1h6c-wpengine.netdna-ssl.com/wp-content/uploads/2013/07/to-light-by-Martin-Fisch-web-300x200.jpg" width = "600"/>
+(<i>photo credit: Martin Fisch</i>)
+
+
+----
+Step1
+
+
+Just as she made her decision Teagan silently wondered if choosing <b>(print: $gift)</b> had been the best decision. As she pondered, the light quickly and steadily became smaller and smaller until it disappeared altogether.
+
+
+What to do now? Unable to sleep anymore, Teagan climbed out of bed, opened her bedroom door and headed to the [[kitchen]]. 
+
+
+----
+kitchen
+
+
+After walking down the hallway in her home, and turning right into the kitchen, she couldn't help but revisiting the decision she's made moments ago in selecting <b>(print: $gift)</b> as her "gift" from the light.
+
+
+To Be Continued (feel free to continue on writing this story if you like)...
+
+
+
+
+Extra Credit Activities (if you have time):
+
+
+
+
+11. 
+
+
+{(set: $counter to 10)
+You have |amount>[$counter] seconds left!
+
+(live: 1s)[
+        (set: $counter to it - 1)
+        (if: $counter is 0)[(go-to: "Step1")]
+        (replace: ?amount)[$counter]
+]}
+
+
+
+
+12.
+
+
+(if: $counter is 0)[Teagan was paralyzed with indecision. She wondered what could have happened if she'd only chosen something -- anything!]\
+
+
+(else:)[Just as she made her decision Teagan silently wondered if choosing <b>(print: $gift)</b> had been the best decision.]\
+
+
+As she pondered, the light quickly and steadily became smaller and smaller until it disappeared altogether.
+
+
+What to do now? Unable to sleep anymore, Teagan climbed out of bed, opened her bedroom door and headed to the [[kitchen]].
+
+
+
+
+13.
+
+
+(if: $counter is 0)[(set: $gift to (either: "kindness", "knowledge", "immortality"))Teagan randomly chose <b>(print: $gift)</b>.]\

@@ -9,15 +9,33 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 <img src="images//twine-variables-01.png" style="float:right;width:250px" alt=image of coding for links>
 If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance. If you’d like to see an excellent example of a story that uses variables, please check out this [Poetry Escape story](https://github.com/uviclibraries/twine/blob/main/Escape-Room-student%20created.html) , written by Karlie Castle, a UVic Education student. If you’d like to see how the story was made, ask your instructor how you can download a local copy of the story and look at it in Twine’s editor view. Have fun!  **Note**: To avoid compatibility issues, on Macs please use Firefox or Chrome web browsers instead of Safari.
 
-1. <img src="images//twine-intro-02.png" style="float:right;width:120px;height:50px;" alt="+New button">Create a new story by navigating to [the Twine website](http://twinery.org/2/){:target="_blank"} and clicking on the “+ New” button on the top navigation bar. Give your story a name something like, “**Teagan’s Story**” (which you can change later if you want to).
-2. Open your word processing document where you have your story laid, <img src="images//twine-variables-03.png" style="float:right;width:150px;height:150px;" alt="Unintitled Passage box"> or if you don’t have your own story you can use our sample [Teagan’s Story](https://github.com/uviclibraries/twine/blob/main/images/variable-demo.txt){:target="_blank"}  
-3. Double click on the “**Untitled Passage**” box on the screen and start importing your story into Twine by copying and pasting the first passage of text into the text box. Also title the passage, as this is key to linking different passages together. 
-4. <img src="images//twine-variables-04.png" style="float:right;width:180px" alt="Boxes with text is linking"> Note the format in the text you just pasted into the passage that will allow you to save and access some text for use or reference later in the story. For example: 
+Step 1
+{: .label .label-step}
+<img src="images//twine-intro-02.png" style="float:right;width:120px;height:50px;" alt="+New button">Create a new story by navigating to [the Twine website](http://twinery.org/2/){:target="_blank"} and clicking on the “+ New” button on the top navigation bar. Give your story a name something like, “**Teagan’s Story**” (which you can change later if you want to).
+{: .step}
+
+Step 2
+{: .label .label-step}
+Open your word processing document where you have your story laid, <img src="images//twine-variables-03.png" style="float:right;width:150px;height:150px;" alt="Unintitled Passage box"> or if you don’t have your own story you can use our sample [Teagan’s Story](https://github.com/uviclibraries/twine/blob/main/images/variable-demo.txt){:target="_blank"}  
+{: .step}
+
+Step 3
+{: .label .label-step}
+Double click on the “**Untitled Passage**” box on the screen and start importing your story into Twine by copying and pasting the first passage of text into the text box. Also title the passage, as this is key to linking different passages together. 
+{: .step}
+
+Step 4
+{: .label .label-step}
+<img src="images//twine-variables-04.png" style="float:right;width:180px" alt="Boxes with text is linking"> Note the format in the text you just pasted into the passage that will allow you to save and access some text for use or reference later in the story. For example: 
 ```(link: "kindness")[\(set: $gift to "kindness")\(go-to: "Step1")\]```
 - The link text displayed in the passage is: “**kindness**”
 - The variable or text holder is **$gift**, and the value or text it is storing, in this case, is “**kindness**”. 
 - When this link is clicked, it will take the reader to the “**Step1**” passage.
-5. Note that for each of the other related variable links below that the variable or holder in all three cases is **$gift** and the goto passage in all three cases is “**Step1**”, only the value being assigned or set is different:
+{: .step}
+
+Step 5
+{: .label .label-step}
+Note that for each of the other related variable links below that the variable or holder in all three cases is **$gift** and the goto passage in all three cases is “**Step1**”, only the value being assigned or set is different:
 - ```(link: "knowledge")[\(set: $gift to "knowledge")\(go-to: "Step1")\]```
 - ```(link: "immortality")[\(set: $gift to "immortality")\(go-to: "Step1")\]```
 
@@ -25,33 +43,51 @@ If you have any questions or get stuck as you work through this in-class exercis
   <div id="gif1">
       <img src="images/twine-variables-05b.gif" alt="Links">
       </div>
+{: .step}
 
-
-6. To add a gift option, you could copy/paste the command in Step 4 and change the link and variable like this:
+Step 6
+{: .label .label-step}
+To add a gift option, you could copy/paste the command in Step 4 and change the link and variable like this:
 - ```(link: “bravery")[\(set: $gift to "bravery")\(go-to: "Step1")\]```
 
 <button onclick="toggle('gif2')">Show / Hide Animation </button>
   <div id="gif2">
       <img src="images/twine-variables-06b.gif" alt="Changing links">
       </div>
+{: .step}
 
-
-7. To check the **$gift** variable in a later passage and then present different options based on the value of the **$gift**, you can use the following code:
+Step 7
+{: .label .label-step}
+To check the **$gift** variable in a later passage and then present different options based on the value of the **$gift**, you can use the following code:
 ```The monster charged forward and then (if: $gift is "knowledge") [unfortunately your (print: $gift) was not able to help you and you die.] (else:) [your gift of (print: $gift) saved you from the dragon!]```
 
 <button onclick="toggle('gif3')">Show / Hide Animation </button>
   <div id="gif3">
       <img src="images/twine-variables-07b.gif" alt="Gift Variable">
       </div>
+{: .step}
 
+Step 8
+{: .label .label-step}
+Go ahead and create all the other passages for your story, by either writing it yourself or copy and pasting the text into passages as you just did above for the sample story.
+{: .step}
 
-8. Go ahead and create all the other passages for your story, by either writing it yourself or copy and pasting the text into passages as you just did above for the sample story.
-9. Try to upload your story to your personal UVic webspace. For directions on how to do this [look here](http://bit.ly/2QlRZo0){:target="_blank"} 
+Step 9
+{: .label .label-step}
+Try to upload your story to your personal UVic webspace. For directions on how to do this [look here](http://bit.ly/2QlRZo0){:target="_blank"} 
+{: .step}
 
-10. **Extra Credit Activities (if you have time)**:
-11. Text input into a variable, for readers to input names for example:
+**Extra Credit Activities (if you have time)**:
+
+Step 10
+{: .label .label-step}
+Text input into a variable, for readers to input names for example:
 ```(put: (prompt: "What's your name?","") into $name) Your name is $name.```
-12. Add a countdown timer
+{: .step}
+
+Step 11
+{: .label .label-step}
+Add a countdown timer
 - In the Start passage, press Enter twice and then copy/paste the following code from variable-demo.txt after “It is up to you to choose”:
 ```
 {(set: $counter to 10)
@@ -69,8 +105,11 @@ You have |amount>[$counter] seconds left!
             - decrease $counter by 1
             - if the timer runs out, go to “Step1”
             - Update **amount** with the new value of the counter.
+{: .step}
 
-13. If the timer runs out, we could update “Step1” to reflect that. Replace all the text in Step1 with the following from variable-demo.txt:
+Step 12
+{: .label .label-step}
+If the timer runs out, we could update “Step1” to reflect that. Replace all the text in Step1 with the following from variable-demo.txt:
 
 ```(if: $counter is 0)[Teagan was paralyzed with indecision. She wondered what could have happened if she'd only chosen something -- anything!]\```
 
@@ -81,10 +120,14 @@ You have |amount>[$counter] seconds left!
 ```What to do now? Unable to sleep anymore, Teagan climbed out of bed, opened her bedroom door and headed to the [[kitchen]].```
 
 - Now if **$counter** runs out (i.e. reaches 0), Twine will display the first sentence “Teagan was paralyzed…” Otherwise, Twine will display everything as before.
+{: .step}
 
-14. What if we want to randomly pick a gift instead? We could replace the first sentence in “Step1” with this from variable-demo.txt:
+Step 13
+{: .label .label-step}
+What if we want to randomly pick a gift instead? We could replace the first sentence in “Step1” with this from variable-demo.txt:
 ```(if: $counter is 0)[(set: $gift to (either: "kindness", "knowledge", "immortality"))Teagan randomly chose <b>(print: $gift)</b>.]\```
 - ```(either:…) tells Twine to randomly pick from a list of options.```
+{: .step}
 
 <script>  
 

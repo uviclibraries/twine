@@ -7,7 +7,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 <img src="images/twine-intro-01.png" style="float:right;width:180px;height:180px;" alt="twine logo"> 
 # Interactive, Nonlinear Stories with Twine: Getting Started
-If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
+If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!<br>
 
 **Note:** To avoid compatibility issues... **DO NOT use the SAFARI web browser on Macs!**  Please use Firefox or Chrome web browsers instead of Safari.
 <img src="images/twine-intro-02.png" style="float:right;width:120px;height:50px;" alt="+New button">
@@ -16,9 +16,11 @@ If you and your group have any questions or get stuck as you work through this i
 <img src="images/twine-intro-03.png" style="float:right;width:140px;height:140px;" alt="Untitled Passage box"> 
 2. Open your word processing document where you have your story laid, or if you don’t have your own story you can [click here to use our Forest Adventure sample story](https://docs.google.com/document/d/12BeIFnMyKHyS0uQZbJxLBrIZ8lpEsUZ6vkjrj4gaLWE/edit?usp=sharing){:target="_blank"} which also contains a link to a live version of the story so you can test out an example of a Twine story. 
 3. Double click on the “Untitled Passage” box on the screen and start importing your story into Twine by copying and pasting the first passage of text into the text box. Also title the passage, as this is key to linking different passages together. 
-4. <img src="images/twine-intro-04.png" style="float:right;width:220px" alt="Boxes where text is linking">  To create other passages, simply surround the text in the document with double square brackets, and this automatically creates another passage. E.g.: **“Just testing how to create a [[link to another document]] in a story.”** Give this a try now if you haven’t already. You will see the auto-generated passage similar to the image to the right when you close the current passage.
-5. Go ahead and create all the other passages for your story, by copy and pasting the text into passages as you just did above.  You can preview your story at any time by clicking the Build tab then clicking the Play button.
-6. Next please insert an image into one of your passages by typing or pasting the following HTML into the passage. If you would like to use your own image, paste the URL of your own image in place of the URL below between the quotation marks: 
+4. <img src="images/twine-intro-04.png" style="float:right;width:220px" alt="Boxes where text is linking">  To create other passages, simply surround the text in the document with double square brackets, and this automatically creates another passage. E.g.:
+```**“Just testing how to create a [[link to another document]] in a story.”**``` 
+Give this a try now if you haven’t already. You will see the auto-generated passage similar to the image to the right when you close the current passage.
+6. Go ahead and create all the other passages for your story, by copy and pasting the text into passages as you just did above.  You can preview your story at any time by clicking the Build tab then clicking the Play button.
+7. Next please insert an image into one of your passages by typing or pasting the following HTML into the passage. If you would like to use your own image, paste the URL of your own image in place of the URL below between the quotation marks: 
 ```
 <img src="https://bit.ly/32DnMcw" width="500">
 ```

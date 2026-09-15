@@ -28,9 +28,10 @@ Step 3
 Double click on the “Untitled Passage” box on the screen and start importing your story into Twine by copying and pasting the first passage of text into the text box. Also title the passage, as this is key to linking different passages together. 
 {: .step}
 
+<img src="images/twine-intro-04.png" style="float:right;width:220px" alt="Boxes where text is linking">
 Step 4
 {: .label .label-step}
-<img src="images/twine-intro-04.png" style="float:right;width:220px" alt="Boxes where text is linking">  To create other passages, simply surround the text in the document with double square brackets, and this automatically creates another passage.Give this a try now if you haven’t already. You will see the auto-generated passage similar to the image to the right when you close the current passage.
+To create other passages, simply surround the text in the document with double square brackets, and this automatically creates another passage.Give this a try now if you haven’t already. You will see the auto-generated passage similar to the image to the right when you close the current passage.
 ```
 Just testing how to create a [[link to another document]] in a story.
 ``` 
@@ -114,7 +115,7 @@ Step 12
 
 Step 13
 {: .label .label-step}
-Put URL links to other webpages or web resources into your story using an image as the link “button.” E.g. ```<a href="http://uvic.ca"><img src="https://jillianmccue.ca/wp-content/uploads/2016/04/goat.jpg"></a>```
+Put URL links to other webpages or web resources into your story using an image as the link “button.” E.g. ```<a href="http://uvic.ca"><img src="https://i0.wp.com/richmccue.com/wp-content/uploads/2016/12/goats-looking-up.jpg"></a>```
 {: .step}
 
 Step 14

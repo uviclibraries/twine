@@ -17,7 +17,7 @@ Create a new guided interview guide by navigating to [the Twine website](http://
 
 Step 2
 {: .label .label-step}
-You can create any guided interview you want,<img src="images//twine-interview-03.png" style="float:right;width:120px;height:120px;" alt="Unintitled Passage box">  but if you don’t have anything in mind, please feel free to use our sample [“Laptop Buyers Guide” interview](http://bit.ly/2KWhugt){:target="_blank"}
+You can create any guided interview you want,<img src="images//twine-interview-03.png" style="float:right;width:120px;height:120px;" alt="Unintitled Passage box">  but if you don’t have anything in mind, please feel free to use our sample [“Laptop Buyers Guide” interview](laptop-demo.txt){:target="_blank"}
 {: .step}
 
 Step 3
@@ -113,7 +113,7 @@ Embed a YouTube video into one of your passages. Note in the code below how you 
 
 Step 13
 {: .label .label-step}
-Here is a more fully developed [example of a Laptop Buyers Guide](http://bit.ly/2Iv0kkz){:target="_blank"} 
+Here is a more fully developed [example of a Laptop Buyers Guide](laptop-demo.txt){:target="_blank"} 
 ![Representation of the storyboard](images//twine-interview-09.png)
 {: .step}
 

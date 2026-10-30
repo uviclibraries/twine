@@ -1,0 +1,51 @@
+Laptop Buyers Guide for Twine
+
+Important Note: If you copy and paste any of these passages into Twine, you need to make sure to paste without formatting or Twine will not work properly. On a Mac to paste without formatting, press <Command> + <Shift> + <v>. On a windows computer, press <Ctrl> + <Shift> + <v>.
+
+----
+<h2>Rich's Student Laptop Buyer Guide 2022</h2>
+Every summer a number of extended family members, friends, and acquaintances ask me which laptop they should buy for their young adult child who is heading off for their first year of university or college. This is my attempt to help them navigate that process so that they can buy a laptop that meets the needs of their child, and still fits within their budget. 
+
+Make sure to ask the faculty your student will be entering to see if they suggest either the Mac or Windows operating system because of specific software requirements.
+
+Let's start by indicating how much you are able and/or willing to spend on the laptop:
+
+1. [[$3200 or less]]
+2. [[$1200 or less]]
+3. [[$600 or less]]
+
+----
+Which operating system do you prefer?
+
+1. [[Windows|Windows 1200]]
+2. [[Mac|MacBook Air]]
+
+----
+<h2>MacBook Air</h2>
+Cost: $1199
+13.3" screen
+weight: 3lbs
+Battery Life: 12 hours
+Note: No graphics card.
+
+----
+Which is more important to your student:
+
+1. [[Light weight laptop|Light weight laptop 1200]] (3lbs or less & 13.3" screen)
+2. [[Large screen size|Large screen size 1200]] (15.4" or greater and heavier)
+
+----
+<h2>Dell XPS 13</h2>
+Cost: $999
+13.3" screen
+weight: 2.7lbs
+Battery Life: 13 hours
+Note: No graphics card.
+
+----
+<h2>Dell XPS 15<</h2>
+Cost: $1199
+15.4" screen
+weight: 4lbs
+Battery Life: 10 hours
+Note: No graphics card.

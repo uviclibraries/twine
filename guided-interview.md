@@ -91,7 +91,7 @@ It’s important to remember to save your interview fairly frequently as the sto
 
 Step 9
 {: .label .label-step}
-Try to upload your story to your personal UVic webspace. For directions on how to do this [look here](http://bit.ly/2QlRZo0){:target="_blank"} 
+Try to upload your story to your personal UVic webspace. For directions on how to do this [look here](https://www.uvic.ca/systems/services/pages/web-hosting.php){:target="_blank"} 
   - Note: If you are using your own images, they must be available somewhere on the web, or also uploaded to your webspace with the correct filepath. The best practice is to upload them to your personal webspace as you develop your story so that you can make sure they work correctly as you go.
 {: .step}
 

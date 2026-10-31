@@ -74,7 +74,7 @@ Go ahead and create all the other passages for your story, by either writing it 
 
 Step 9
 {: .label .label-step}
-Try to upload your story to your personal UVic webspace. For directions on how to do this [look here](http://bit.ly/2QlRZo0){:target="_blank"} 
+Try to upload your story to your personal UVic webspace. For directions on how to do this [look here](https://www.uvic.ca/systems/services/pages/web-hosting.php){:target="_blank"} 
 {: .step}
 
 **Extra Credit Activities (if you have time)**:
